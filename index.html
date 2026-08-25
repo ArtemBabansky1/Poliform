@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ПОЛИФОРМ — производство пластиковой тары и флаконов из ПНД</title>
+  <meta name="description" content="Разрабатываем и производим флаконы из ПНД эксклюзивно под ваш бренд. Собственные пресс-формы, контроль качества, минимальные партии. Воронеж.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+  <!-- ============ NAV — floating pill bar ============ -->
+  <header class="nav" id="nav">
+    <div class="nav__bar nav__bar--logo">
+      <a href="#top" class="nav__logo" aria-label="ПОЛИФОРМ — на главную">
+        <svg viewBox="0 0 208 29" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M203.005 9.96844C200.085 9.96844 198.012 7.89007 198.012 4.98422C198.012 2.0976 200.121 0 203.005 0C205.889 0 207.98 2.0976 207.98 4.98422C207.98 7.87084 205.889 9.96844 203.005 9.96844ZM203.005 8.31343C205.006 8.31343 206.322 7.00485 206.322 4.98422C206.322 2.96358 205.006 1.63575 203.005 1.63575C201.004 1.63575 199.688 2.98284 199.688 4.98422C199.688 7.00485 201.004 8.31343 203.005 8.31343ZM203.762 7.25503C203.51 6.08113 203.366 5.92717 202.861 5.92717H202.519V7.25503H201.077V2.67492H203.33C204.465 2.67492 205.042 3.11754 205.042 3.96427C205.042 4.71481 204.592 5.09969 203.636 5.13818V5.63851C204.628 5.65776 204.934 5.92717 205.295 7.25503H203.762ZM202.464 4.83026H203.186C203.492 4.83026 203.708 4.65707 203.708 4.34916C203.708 4.04127 203.51 3.88731 203.186 3.88731H202.464V4.83026Z" fill="currentColor"/>
+          <path d="M0 28.2032V7.89746H18.1881V28.2032H13.6628V11.9586H4.52528V28.2032H0Z" fill="currentColor"/>
+          <path d="M32.5485 28.5794C26.2248 28.5794 21.4965 24.0542 21.4965 18.0495C21.4965 12.0448 26.2248 7.51953 32.5485 7.51953C38.8724 7.51953 43.6297 12.0738 43.6297 18.0495C43.6297 24.0252 38.8724 28.5794 32.5485 28.5794ZM32.5485 24.4313C36.3196 24.4313 38.9594 21.7915 38.9594 18.0495C38.9594 14.3074 36.3196 11.6677 32.5485 11.6677C28.7776 11.6677 26.1378 14.2784 26.1378 18.0495C26.1378 21.8205 28.7776 24.4313 32.5485 24.4313Z" fill="currentColor"/>
+          <path d="M45.187 24.142C47.5946 24.2 48.233 23.5038 48.436 21.3572L49.7123 7.89746H65.2608V28.2032H60.7354V12.0456H53.7733L52.9033 21.9374C52.497 26.6947 50.4376 28.4933 45.187 28.1743V24.142Z" fill="currentColor"/>
+          <path d="M83.2563 28.2032C83.2274 19.3847 83.4596 17.4991 84.9389 13.322L83.6915 12.8288C82.038 16.6579 80.0364 19.7618 73.8577 28.2032H69.3904V7.89746H73.8868C73.9157 16.7159 73.6838 18.6015 72.2043 22.7496L73.4806 23.2718C75.1051 19.4427 77.0776 16.3678 83.2855 7.89746H87.7528V28.2032H83.2563Z" fill="currentColor"/>
+          <path d="M100.746 28.609V26.4624C94.6539 26.2886 90.9408 23.1556 90.9408 18.0502C90.9408 12.9448 94.6539 9.81186 100.746 9.63783V7.49121H105.242V9.63783C111.305 9.78287 115.047 12.9448 115.047 18.0502C115.047 23.1556 111.305 26.3175 105.242 26.4624V28.609H100.746ZM95.5242 18.0502C95.5242 20.893 97.4386 22.4884 100.862 22.5755V13.5249C97.4386 13.6119 95.5242 15.2074 95.5242 18.0502ZM105.155 22.5755C108.578 22.4884 110.492 20.893 110.492 18.0502C110.492 15.2074 108.578 13.6119 105.155 13.5249V22.5755Z" fill="currentColor"/>
+          <path d="M128.582 28.5794C122.258 28.5794 117.53 24.0542 117.53 18.0495C117.53 12.0448 122.258 7.51953 128.582 7.51953C134.906 7.51953 139.663 12.0738 139.663 18.0495C139.663 24.0252 134.906 28.5794 128.582 28.5794ZM128.582 24.4313C132.353 24.4313 134.993 21.7915 134.993 18.0495C134.993 14.3074 132.353 11.6677 128.582 11.6677C124.811 11.6677 122.171 14.2784 122.171 18.0495C122.171 21.8205 124.811 24.4313 128.582 24.4313Z" fill="currentColor"/>
+          <path d="M142.945 28.2032V7.89746H151.154C155.883 7.89746 159.016 10.7693 159.016 15.1205C159.016 19.4427 155.883 22.3435 151.183 22.3435H147.47V28.2032H142.945ZM147.383 18.6305H150.632C153.214 18.6305 154.577 17.4411 154.577 15.1495C154.577 12.8578 153.214 11.6975 150.632 11.6975H147.383V18.6305Z" fill="currentColor"/>
+          <path d="M165.347 28.2032H160.677L163.316 7.89746H168.451C172.773 16.6579 173.585 18.8335 173.788 21.9084H175.065C175.268 18.8335 176.08 16.6579 180.402 7.89746H185.537L188.205 28.2032H183.506C182.433 18.8625 182.433 16.948 183.274 12.7418L181.911 12.4517C181.04 16.3388 180.286 18.1663 176.283 25.7375H172.57C168.567 18.1663 167.813 16.3388 166.942 12.4517L165.579 12.7418C166.449 16.948 166.42 18.8625 165.347 28.2032Z" fill="currentColor"/>
+        </svg>
+      </a>
+    </div>
+    <div class="nav__bar nav__bar--menu">
+      <nav class="nav__links" aria-label="Основная навигация">
+        <a href="#about" class="nav__link">О производстве</a>
+        <a href="#products" class="nav__link">Продукция</a>
+        <a href="#quality" class="nav__link">Качество</a>
+        <a href="#process" class="nav__link">Процесс</a>
+      </nav>
+      <div class="nav__contacts">
+        <a href="tel:+79060761167" class="nav__phone">+7 906 076-11-67</a>
+        <a class="msgr" href="https://t.me/polyform_vrn" target="_blank" rel="noopener" aria-label="Telegram">
+          <svg viewBox="0 0 16 16"><path d="m15 1.2-14 5.4 4.4 1.6L13 3.6 6.6 9.7l.4 4.3 2.4-2.8 3.8 2.6L15 1.2z" fill="currentColor"/></svg>
+        </a>
+        <a class="msgr" href="https://wa.me/79060761167" target="_blank" rel="noopener" aria-label="WhatsApp">
+          <svg viewBox="0 0 16 16"><path d="M8 1.5a6.5 6.5 0 1 0-5.6 9.8L1.5 14.5l3.3-.9A6.5 6.5 0 0 0 8 1.5Z" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M5.6 5.2c.1 2.2 3 5.1 5.2 5.2l.8-1.1-1.9-1-.7.6C8 8.6 7.4 8 7.1 7l.6-.7-1-1.9-1.1.8Z" fill="currentColor"/></svg>
+        </a>
+        <a class="msgr" href="viber://chat?number=%2B79060761167" aria-label="Viber">
+          <svg viewBox="0 0 16 16"><path d="M3.2 1.9 4.9 1c.5-.2 1.1 0 1.4.5l1 2c.2.4.1 1-.3 1.3l-.8.8c.6 1.3 1.7 2.4 3 3l.8-.8c.3-.4.9-.5 1.3-.3l2 1c.5.3.7.9.5 1.4l-.9 1.7c-.3.6-.9.9-1.5.8C6.5 11.7 2.3 7.5 1.6 2.6c-.1-.6.2-1.2.8-1.5z" fill="currentColor"/></svg>
+        </a>
+        <a class="msgr" href="mailto:hello@polyform.pro" aria-label="Почта">
+          <svg viewBox="0 0 16 16" fill="none"><rect x="1.5" y="3" width="13" height="10" rx="1.5" stroke="currentColor" stroke-width="1.3"/><path d="m2.5 4.5 5.5 4.5 5.5-4.5" stroke="currentColor" stroke-width="1.3"/></svg>
+        </a>
+      </div>
+      <a href="#contact" class="btn btn--cta">Связаться</a>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- ============ HERO — fullscreen auto-rotating slider ============ -->
+    <section class="hero">
+      <div class="hero__media-wrap">
+        <figure class="hero__media">
+          <div class="hero__slider" id="heroSlider">
+          <div class="hslide is-active">
+            <img src="assets/img/hero.webp" alt="Ассортимент пластиковых бутылок на палете">
+            <div class="hslide__cap">
+              <h1 class="hslide__title">Более 50&nbsp;форм флаконов в&nbsp;каталоге</h1>
+              <p class="hslide__desc">Флаконы из&nbsp;ПНД от&nbsp;100&nbsp;мл до&nbsp;5&nbsp;л — для косметики, бытовой химии и&nbsp;пищевых продуктов.</p>
+            </div>
+          </div>
+          <div class="hslide">
+            <img src="assets/img/cosmetics.webp" alt="Шелкография на флаконе">
+            <div class="hslide__cap">
+              <h3 class="hslide__title">Печать до&nbsp;6 цветов прямо на&nbsp;флаконе</h3>
+              <p class="hslide__desc">Наносим логотип и&nbsp;дизайн без этикетки — стойко к&nbsp;влаге, истиранию и&nbsp;химии.</p>
+            </div>
+          </div>
+          <div class="hslide">
+            <img src="assets/img/perfume.webp" alt="Новые формы флаконов">
+            <div class="hslide__cap">
+              <h3 class="hslide__title">Готовим линейку для&nbsp;косметики и&nbsp;парфюмерии</h3>
+              <p class="hslide__desc">Новые пресс-формы уже в&nbsp;работе — первые образцы покажем вашему бренду.</p>
+            </div>
+          </div>
+          <div class="hslide">
+            <img src="assets/img/process.webp" alt="Образцы флаконов и пресс-формы">
+            <div class="hslide__cap">
+              <h3 class="hslide__title">Скидки до&nbsp;15% при&nbsp;заказе от&nbsp;10&nbsp;000 штук</h3>
+              <p class="hslide__desc">Чем больше тираж — тем ниже цена за&nbsp;единицу. Рассчитаем стоимость за&nbsp;один день.</p>
+            </div>
+          </div>
+            <div class="hero__slider-ui">
+              <div class="hero__actions">
+                <a href="#products" class="btn btn--lime">Смотреть продукцию</a>
+                <a href="#contact" class="btn-arrow" aria-label="Связаться">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+              <div class="hero__dots" role="tablist" aria-label="Слайды">
+                <button type="button" class="hero__dot is-active" aria-label="Слайд 1"></button>
+                <button type="button" class="hero__dot" aria-label="Слайд 2"></button>
+                <button type="button" class="hero__dot" aria-label="Слайд 3"></button>
+                <button type="button" class="hero__dot" aria-label="Слайд 4"></button>
+              </div>
+            </div>
+          </div>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ============ BIG MARQUEE — scroll-reactive ============ -->
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee__track" id="marqueeTrack">
+        <div class="marquee__group">
+          <span>Флаконы</span><i></i><span>Крышки</span><i></i><span>Косметика</span><i></i>
+          <span>Парфюмерия</span><i></i><span>Бытовая химия</span><i></i>
+        </div>
+        <div class="marquee__group">
+          <span>Флаконы</span><i></i><span>Крышки</span><i></i><span>Косметика</span><i></i>
+          <span>Парфюмерия</span><i></i><span>Бытовая химия</span><i></i>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 01 ABOUT ============ -->
+    <section class="section section--bone about" id="about">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <span class="counter-pill">01 / 06</span>
+          <span class="section__label">О производстве</span>
+        </div>
+        <h2 class="about__statement" data-split>
+          Надоела однотипная упаковка? Проектируем форму
+          под&nbsp;ваш бренд и&nbsp;доводим её до&nbsp;серии
+          на&nbsp;собственном производстве.
+        </h2>
+        <div class="about__grid">
+          <div class="about__media" data-parallax-wrap>
+            <img class="pimg pimg--tall" data-parallax="0.08" src="assets/img/about.webp" alt="Выдувная пресс-форма с ПЭТ-бутылкой на производстве">
+          </div>
+          <div class="about__text" data-reveal>
+            <p>
+              ПОЛИФОРМ — производство пластиковой тары и&nbsp;пластмассовых
+              флаконов из&nbsp;ПНД в&nbsp;Воронеже. Работаем с&nbsp;косметическими,
+              парфюмерными и&nbsp;химическими брендами по&nbsp;всей России.
+            </p>
+            <p>
+              Высокоточные стальные пресс-формы, входящий контроль сырья
+              и&nbsp;проверка герметичности каждой партии — упаковка выходит
+              с&nbsp;производства готовой к&nbsp;розливу.
+            </p>
+          </div>
+        </div>
+        <div class="stats">
+          <div class="stats__item" data-reveal>
+            <div class="stats__num"><span data-count="14">0</span>+</div>
+            <p class="stats__caption">лет проектируем и&nbsp;производим тару из&nbsp;полиэтилена</p>
+          </div>
+          <div class="stats__item" data-reveal>
+            <div class="stats__num"><span data-count="5">0</span> млн</div>
+            <p class="stats__caption">флаконов и&nbsp;крышек выпускаем ежегодно</p>
+          </div>
+          <div class="stats__item" data-reveal>
+            <div class="stats__num"><span data-count="120">0</span>+</div>
+            <p class="stats__caption">постоянных клиентов от&nbsp;локальных марок до&nbsp;сетей</p>
+          </div>
+          <div class="stats__item" data-reveal>
+            <div class="stats__num"><span data-count="48">0</span> ч</div>
+            <p class="stats__caption">от&nbsp;заявки до&nbsp;первого тестового образца</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 02 PRODUCTS — HORIZONTAL ============ -->
+    <section class="hscroll" id="products">
+      <div class="hscroll__pin">
+        <div class="container hscroll__head">
+          <div class="section__head" data-reveal>
+            <span class="counter-pill">02 / 06</span>
+            <span class="section__label">Каталог</span>
+          </div>
+          <h2 class="hscroll__title" data-split>Что мы производим.</h2>
+        </div>
+        <div class="hscroll__track" id="hscrollTrack">
+          <article class="pcard">
+            <img class="pcard__img" src="assets/img/bottles.webp" alt="Флаконы из ПНД">
+            <div class="pcard__overlay">
+              <span class="tag"><span class="tag__dot"></span>ПНД / ПЭВД</span>
+              <div class="pcard__bottom">
+                <div>
+                  <h3 class="pcard__title">Флаконы</h3>
+                  <p class="pcard__text">Флаконы и&nbsp;бутылки из&nbsp;полиэтилена от&nbsp;10&nbsp;мл до&nbsp;1&nbsp;л — любые формы под&nbsp;розлив, дозаторы и&nbsp;распылители.</p>
+                </div>
+                <a href="#popular" class="btn-arrow" aria-label="Каталог флаконов">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+          <article class="pcard">
+            <img class="pcard__img" src="assets/img/cosmetics.webp" alt="Шелкография на флаконе">
+            <div class="pcard__overlay">
+              <span class="tag"><span class="tag__dot"></span>Печать</span>
+              <div class="pcard__bottom">
+                <div>
+                  <h3 class="pcard__title">Шелкография</h3>
+                  <p class="pcard__text">Печать логотипа и&nbsp;дизайна прямо на&nbsp;флаконе — до&nbsp;6 цветов, стойкая к&nbsp;воде и&nbsp;бытовой химии.</p>
+                </div>
+                <a href="#silk" class="btn-arrow" aria-label="О шелкографии">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+          <article class="pcard">
+            <img class="pcard__img" src="assets/img/caps.webp" alt="Комплектующие — крышки и колпачки">
+            <div class="pcard__overlay">
+              <span class="tag"><span class="tag__dot"></span>Укупорка</span>
+              <div class="pcard__bottom">
+                <div>
+                  <h3 class="pcard__title">Комплектующие</h3>
+                  <p class="pcard__text">Крышки, дозаторы, помпы и&nbsp;распылители — герметичность проверяем до&nbsp;упаковки.</p>
+                </div>
+                <a href="#contact" class="btn-arrow" aria-label="Каталог комплектующих">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+          <div class="pcard pcard--cta">
+            <p class="pcard--cta__text">Не&nbsp;нашли нужную форму?<br><span class="pcard--cta__accent">Сделаем её с&nbsp;нуля.</span></p>
+            <a href="#contact" class="btn btn--lime">Обсудить проект</a>
+          </div>
+        </div>
+        <div class="hscroll__progress"><span id="hscrollBar"></span></div>
+      </div>
+    </section>
+
+    <!-- ============ 03 QUALITY — 3 cards in a row ============ -->
+    <section class="section section--bone quality" id="quality">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <span class="counter-pill">03 / 06</span>
+          <span class="section__label">Контроль качества</span>
+        </div>
+        <h2 class="quality__title" data-split>Каждый флакон проходит контроль трижды.</h2>
+        <div class="quality__cards">
+          <article class="qcard" data-reveal>
+            <span class="qcard__num">02</span>
+            <h3 class="qcard__title">Входящий контроль сырья</h3>
+            <p class="qcard__desc">Проверяем каждую поставку ПНД и&nbsp;красителей до&nbsp;того, как они попадут в&nbsp;производство.</p>
+          </article>
+          <article class="qcard" data-reveal>
+            <span class="qcard__num">03</span>
+            <h3 class="qcard__title">Контроль в&nbsp;процессе производства</h3>
+            <p class="qcard__desc">Регулярные замеры и&nbsp;визуальный контроль на&nbsp;линии — брак не&nbsp;доходит до&nbsp;склада.</p>
+          </article>
+          <article class="qcard" data-reveal>
+            <span class="qcard__num">04</span>
+            <h3 class="qcard__title">Проверка герметичности</h3>
+            <p class="qcard__desc">Каждая партия тестируется на&nbsp;герметичность перед упаковкой и&nbsp;отгрузкой.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 04 POPULAR PRODUCTS ============ -->
+    <section class="section section--paper popular" id="popular">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <span class="counter-pill">04 / 06</span>
+          <span class="section__label">Популярные товары</span>
+        </div>
+        <h2 class="popular__title" data-split>Формы, которые выбирают.</h2>
+        <div class="popular__grid">
+          <article class="prcard" data-reveal>
+            <div class="prcard__media"><img src="assets/img/cosmetics.webp" alt="Флакон «Ампула» с пипеткой"><div class="prcard__actions"><a href="#contact" class="btn btn--paper">О флаконе</a><button type="button" class="btn btn--lime js-order">Заказать</button></div></div>
+            <div class="prcard__body">
+              <h3 class="prcard__name">Флакон «Ампула»</h3>
+              <p class="prcard__meta">30 мл · ПНД · пипетка</p>
+              <div class="prcard__row">
+                <span class="prcard__price">от&nbsp;9,50&nbsp;₽/шт</span>
+                <a href="#contact" class="btn-arrow" aria-label="Заказать флакон «Ампула»">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+          <article class="prcard" data-reveal>
+            <div class="prcard__media"><img src="assets/img/perfume.webp" alt="Флакон «Серум»"><div class="prcard__actions"><a href="#contact" class="btn btn--paper">О флаконе</a><button type="button" class="btn btn--lime js-order">Заказать</button></div></div>
+            <div class="prcard__body">
+              <h3 class="prcard__name">Флакон «Серум»</h3>
+              <p class="prcard__meta">50 мл · ПНД · винтовое горло</p>
+              <div class="prcard__row">
+                <span class="prcard__price">от&nbsp;11,80&nbsp;₽/шт</span>
+                <a href="#contact" class="btn-arrow" aria-label="Заказать флакон «Серум»">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+          <article class="prcard" data-reveal>
+            <div class="prcard__media"><img src="assets/img/caps.webp" alt="Стик «Твист» с крышкой"><div class="prcard__actions"><a href="#contact" class="btn btn--paper">О флаконе</a><button type="button" class="btn btn--lime js-order">Заказать</button></div></div>
+            <div class="prcard__body">
+              <h3 class="prcard__name">Стик «Твист»</h3>
+              <p class="prcard__meta">75 мл · ПНД · крышка твист-офф</p>
+              <div class="prcard__row">
+                <span class="prcard__price">от&nbsp;12,60&nbsp;₽/шт</span>
+                <a href="#contact" class="btn-arrow" aria-label="Заказать стик «Твист»">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+          <article class="prcard" data-reveal>
+            <div class="prcard__media"><img src="assets/img/bottles.webp" alt="Флакон «Цилиндр» с дозатором"><div class="prcard__actions"><a href="#contact" class="btn btn--paper">О флаконе</a><button type="button" class="btn btn--lime js-order">Заказать</button></div></div>
+            <div class="prcard__body">
+              <h3 class="prcard__name">Флакон «Цилиндр»</h3>
+              <p class="prcard__meta">400 мл · ПНД · помпа-дозатор</p>
+              <div class="prcard__row">
+                <span class="prcard__price">от&nbsp;14,20&nbsp;₽/шт</span>
+                <a href="#contact" class="btn-arrow" aria-label="Заказать флакон «Цилиндр»">
+                  <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+                </a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 05 SILK-SCREEN ============ -->
+    <section class="section section--bone silk" id="silk">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <span class="counter-pill">05 / 06</span>
+          <span class="section__label">Шелкография</span>
+        </div>
+        <h2 class="silk__title" data-split>Ваш бренд — прямо на&nbsp;флаконе.</h2>
+        <div class="silk__card" data-reveal>
+          <div class="silk__media"><img src="assets/img/cosmetics.webp" alt="Флакон с шелкографией"></div>
+          <div class="silk__body">
+            <div class="silk__text">
+              <h3>Что такое шелкография</h3>
+              <p>Прямая печать логотипа и&nbsp;дизайна на&nbsp;поверхности флакона. Стойкая к&nbsp;воде, спирту и&nbsp;бытовой химии — не&nbsp;выцветает и&nbsp;не&nbsp;стирается.</p>
+            </div>
+            <div class="silk__text">
+              <h3>Преимущества</h3>
+              <p>До&nbsp;6 цветов за&nbsp;один проход, точная цветопередача по&nbsp;Pantone. Матовые, глянцевые и&nbsp;металлизированные краски.</p>
+            </div>
+            <div class="silk__text">
+              <h3>Возможности</h3>
+              <p>Печать на&nbsp;цилиндрических и&nbsp;овальных поверхностях любого объёма. Тиражи от&nbsp;1&nbsp;000 штук — с&nbsp;тестовым образцом перед запуском.</p>
+            </div>
+            <a href="#contact" class="btn btn--lime silk__btn">Подробнее</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ FOUNDER QUOTE ============ -->
+    <section class="section section--bone quote">
+      <div class="container">
+        <blockquote class="quote__text" id="quoteText">
+          Решим любую задачу по&nbsp;поставке пластиковых бутылок.
+          Разработаем <i>индивидуальный дизайн</i>, оптимизируем конечную
+          стоимость вашего заказа, своевременно доставим
+          <i>собственным транспортом</i>.
+        </blockquote>
+        <div class="quote__author" data-reveal>
+          <span class="quote__avatar" aria-hidden="true">АС</span>
+          <div class="quote__who">
+            <span class="quote__name">Андрей Саломатин</span>
+            <span class="quote__role">Основатель компании</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 05 PROCESS ============ -->
+    <section class="section section--paper process" id="process">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <span class="counter-pill">06 / 06</span>
+          <span class="section__label">Как мы работаем</span>
+        </div>
+        <div class="process__layout">
+          <h2 class="process__title" data-split>От&nbsp;эскиза до&nbsp;серии.</h2>
+          <ol class="process__list">
+            <li class="process__step" data-reveal>
+              <span class="process__num">01</span>
+              <div>
+                <h3 class="process__step-title">Заявка и&nbsp;бриф</h3>
+                <p class="process__step-text">Обсуждаем продукт, объём, тираж и&nbsp;то, какой упаковка должна быть на&nbsp;полке.</p>
+              </div>
+            </li>
+            <li class="process__step" data-reveal>
+              <span class="process__num">02</span>
+              <div>
+                <h3 class="process__step-title">Форма и&nbsp;оснастка</h3>
+                <p class="process__step-text">Проектируем эксклюзивную форму флакона и&nbsp;изготавливаем стальную пресс-форму.</p>
+              </div>
+            </li>
+            <li class="process__step" data-reveal>
+              <span class="process__num">03</span>
+              <div>
+                <h3 class="process__step-title">Тестовые образцы</h3>
+                <p class="process__step-text">Отливаем пробную партию, проверяем геометрию, цвет и&nbsp;герметичность вместе с&nbsp;вами.</p>
+              </div>
+            </li>
+            <li class="process__step" data-reveal>
+              <span class="process__num">04</span>
+              <div>
+                <h3 class="process__step-title">Серийное производство</h3>
+                <p class="process__step-text">Запускаем тираж и&nbsp;отгружаем партии точно в&nbsp;срок — с&nbsp;контролем качества на&nbsp;каждом шаге.</p>
+              </div>
+            </li>
+          </ol>
+        </div>
+        <figure class="process__media" data-parallax-wrap>
+          <img class="pimg pimg--wide" data-parallax="0.1" src="assets/img/process.webp" alt="Образцы флаконов и пресс-формы с чертежами на столе">
+        </figure>
+      </div>
+    </section>
+
+    <!-- ============ 05 CONTACT ============ -->
+    <section class="section section--bone contact" id="contact">
+      <div class="container">
+        <div class="contact__layout">
+          <div class="contact__left">
+            <h2 class="contact__title" data-split>Обсудим ваш флакон.</h2>
+            <p class="contact__sub" data-reveal>
+              Пришлите объём, тираж и&nbsp;референсы — вернёмся с&nbsp;расчётом
+              и&nbsp;предложим форму в&nbsp;течение рабочего дня.
+            </p>
+            <ul class="contact__list" data-reveal>
+              <li><span class="contact__key">Телефон</span><a href="tel:+79060761167">+7 906 076-11-67</a></li>
+              <li><span class="contact__key">Почта</span><a href="mailto:hello@polyform.pro">hello@polyform.pro</a></li>
+              <li><span class="contact__key">Telegram</span><a href="https://t.me/polyform_vrn" target="_blank" rel="noopener">@polyform_vrn</a></li>
+              <li><span class="contact__key">Адрес</span><span>г.&nbsp;Воронеж, Газовая&nbsp;ул., 26</span></li>
+            </ul>
+          </div>
+          <form class="contact__form" data-reveal onsubmit="return false;">
+            <label class="field">
+              <span class="field__label">Ваше имя</span>
+              <input type="text" name="name" placeholder="Как к вам обращаться" autocomplete="name">
+            </label>
+            <label class="field">
+              <span class="field__label">Телефон или e-mail</span>
+              <input type="text" name="contact" placeholder="+7 ___ ___-__-__" autocomplete="tel">
+            </label>
+            <label class="field">
+              <span class="field__label">Задача</span>
+              <textarea name="message" rows="4" placeholder="Например: флакон 250 мл под шампунь, тираж 30 000 шт."></textarea>
+            </label>
+            <div class="contact__form-row">
+              <button type="submit" class="btn btn--lime">Отправить заявку</button>
+              <span class="btn-arrow btn-arrow--static" aria-hidden="true">
+                <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+              </span>
+            </div>
+            <p class="contact__consent">Нажимая кнопку, вы соглашаетесь с&nbsp;политикой обработки персональных данных.</p>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CERTIFICATES ============ -->
+    <section class="section section--bone certs" id="certs">
+      <div class="container certs__layout">
+        <div class="certs__left">
+          <div class="section__head" data-reveal>
+            <span class="counter-pill">ГОСТ</span>
+            <span class="section__label">Документы</span>
+          </div>
+          <h2 class="certs__title" data-split>Сертифицированная продукция.</h2>
+          <div class="certs__text" data-reveal>
+            <p>Вся тара изготавливается только из&nbsp;первичного сырья
+            с&nbsp;соблюдением требований ГОСТ.</p>
+            <p>Выпускаемая продукция имеет разрешительную документацию
+            и&nbsp;сертификаты соответствия — вышлем полный пакет по&nbsp;запросу.</p>
+          </div>
+          <div class="certs__actions" data-reveal>
+            <a href="#contact" class="btn btn--lime">Смотреть сертификат</a>
+            <span class="btn-arrow btn-arrow--static" aria-hidden="true">
+              <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
+            </span>
+          </div>
+        </div>
+        <div class="certs__visual" data-reveal aria-hidden="true">
+          <div class="cert-doc cert-doc--back">
+            <span class="cert-doc__mark">ГОСТ 32686—2022</span>
+            <span class="cert-doc__name">Бутылки полимерные для&nbsp;пищевых жидкостей</span>
+            <span class="cert-doc__line" style="width: 82%"></span>
+            <span class="cert-doc__line" style="width: 64%"></span>
+            <span class="cert-doc__line" style="width: 74%"></span>
+            <span class="cert-doc__stamp"></span>
+          </div>
+          <div class="cert-doc cert-doc--front">
+            <span class="cert-doc__mark">ЕАС</span>
+            <span class="cert-doc__name">Декларация о&nbsp;соответствии</span>
+            <span class="cert-doc__line" style="width: 88%"></span>
+            <span class="cert-doc__line" style="width: 58%"></span>
+            <span class="cert-doc__line" style="width: 78%"></span>
+            <span class="cert-doc__line" style="width: 40%"></span>
+            <span class="cert-doc__stamp"></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ NEWS ============ -->
+    <section class="section section--bone news" id="news">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <span class="counter-pill">Медиа</span>
+          <span class="section__label">Новости компании</span>
+        </div>
+        <h2 class="news__title" data-split>Новости компании.</h2>
+        <div class="news__grid">
+          <a href="#contact" class="ncard" data-reveal>
+            <div class="ncard__media"><img src="assets/img/about.webp" alt="Выдувная пресс-форма с ПЭТ-бутылкой"></div>
+            <span class="ncard__date">2026</span>
+            <h3 class="ncard__name">Сертификация ПЭТ-тары в&nbsp;России 2026: руководство для&nbsp;производителей и&nbsp;покупателей</h3>
+          </a>
+          <a href="#contact" class="ncard" data-reveal>
+            <div class="ncard__media"><img src="assets/img/hero.webp" alt="Ассортимент пластиковых бутылок на палете"></div>
+            <span class="ncard__date">2026</span>
+            <h3 class="ncard__name">Что такое ПЭТ-бутылки и&nbsp;почему они безопасны</h3>
+          </a>
+          <a href="#contact" class="ncard" data-reveal>
+            <div class="ncard__media"><img src="assets/img/process.webp" alt="Образцы флаконов и пресс-формы"></div>
+            <span class="ncard__date">2026</span>
+            <h3 class="ncard__name">Как выбрать пластиковую тару для&nbsp;напитков</h3>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__col">
+          <span class="footer__key">Производство</span>
+          <p>Пластиковая тара и&nbsp;флаконы из&nbsp;ПНД<br>г.&nbsp;Воронеж, Газовая&nbsp;ул., 26</p>
+        </div>
+        <div class="footer__col">
+          <span class="footer__key">Связь</span>
+          <a href="tel:+79060761167">+7 906 076-11-67</a>
+          <a href="mailto:hello@polyform.pro">hello@polyform.pro</a>
+          <a href="https://t.me/polyform_vrn" target="_blank" rel="noopener">TG — @polyform_vrn</a>
+        </div>
+        <div class="footer__col">
+          <span class="footer__key">Разделы</span>
+          <a href="#about">О производстве</a>
+          <a href="#products">Продукция</a>
+          <a href="#quality">Качество</a>
+          <a href="#process">Процесс</a>
+        </div>
+        <div class="footer__col footer__col--cta">
+          <span class="footer__key">Разработка — Evoline</span>
+          <div class="footer__cta">
+            <a href="#contact" class="btn btn--paper">Получить каталог</a>
+            <a href="#contact" class="btn btn--lime">Оставить заявку</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__big" data-reveal>
+        <svg viewBox="0 0 188.3 29" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ПОЛИФОРМ">
+          <path d="M0 28.2032V7.89746H18.1881V28.2032H13.6628V11.9586H4.52528V28.2032H0Z" fill="currentColor"/>
+          <path d="M32.5485 28.5794C26.2248 28.5794 21.4965 24.0542 21.4965 18.0495C21.4965 12.0448 26.2248 7.51953 32.5485 7.51953C38.8724 7.51953 43.6297 12.0738 43.6297 18.0495C43.6297 24.0252 38.8724 28.5794 32.5485 28.5794ZM32.5485 24.4313C36.3196 24.4313 38.9594 21.7915 38.9594 18.0495C38.9594 14.3074 36.3196 11.6677 32.5485 11.6677C28.7776 11.6677 26.1378 14.2784 26.1378 18.0495C26.1378 21.8205 28.7776 24.4313 32.5485 24.4313Z" fill="currentColor"/>
+          <path d="M45.187 24.142C47.5946 24.2 48.233 23.5038 48.436 21.3572L49.7123 7.89746H65.2608V28.2032H60.7354V12.0456H53.7733L52.9033 21.9374C52.497 26.6947 50.4376 28.4933 45.187 28.1743V24.142Z" fill="currentColor"/>
+          <path d="M83.2563 28.2032C83.2274 19.3847 83.4596 17.4991 84.9389 13.322L83.6915 12.8288C82.038 16.6579 80.0364 19.7618 73.8577 28.2032H69.3904V7.89746H73.8868C73.9157 16.7159 73.6838 18.6015 72.2043 22.7496L73.4806 23.2718C75.1051 19.4427 77.0776 16.3678 83.2855 7.89746H87.7528V28.2032H83.2563Z" fill="currentColor"/>
+          <path d="M100.746 28.609V26.4624C94.6539 26.2886 90.9408 23.1556 90.9408 18.0502C90.9408 12.9448 94.6539 9.81186 100.746 9.63783V7.49121H105.242V9.63783C111.305 9.78287 115.047 12.9448 115.047 18.0502C115.047 23.1556 111.305 26.3175 105.242 26.4624V28.609H100.746ZM95.5242 18.0502C95.5242 20.893 97.4386 22.4884 100.862 22.5755V13.5249C97.4386 13.6119 95.5242 15.2074 95.5242 18.0502ZM105.155 22.5755C108.578 22.4884 110.492 20.893 110.492 18.0502C110.492 15.2074 108.578 13.6119 105.155 13.5249V22.5755Z" fill="currentColor"/>
+          <path d="M128.582 28.5794C122.258 28.5794 117.53 24.0542 117.53 18.0495C117.53 12.0448 122.258 7.51953 128.582 7.51953C134.906 7.51953 139.663 12.0738 139.663 18.0495C139.663 24.0252 134.906 28.5794 128.582 28.5794ZM128.582 24.4313C132.353 24.4313 134.993 21.7915 134.993 18.0495C134.993 14.3074 132.353 11.6677 128.582 11.6677C124.811 11.6677 122.171 14.2784 122.171 18.0495C122.171 21.8205 124.811 24.4313 128.582 24.4313Z" fill="currentColor"/>
+          <path d="M142.945 28.2032V7.89746H151.154C155.883 7.89746 159.016 10.7693 159.016 15.1205C159.016 19.4427 155.883 22.3435 151.183 22.3435H147.47V28.2032H142.945ZM147.383 18.6305H150.632C153.214 18.6305 154.577 17.4411 154.577 15.1495C154.577 12.8578 153.214 11.6975 150.632 11.6975H147.383V18.6305Z" fill="currentColor"/>
+          <path d="M165.347 28.2032H160.677L163.316 7.89746H168.451C172.773 16.6579 173.585 18.8335 173.788 21.9084H175.065C175.268 18.8335 176.08 16.6579 180.402 7.89746H185.537L188.205 28.2032H183.506C182.433 18.8625 182.433 16.948 183.274 12.7418L181.911 12.4517C181.04 16.3388 180.286 18.1663 176.283 25.7375H172.57C168.567 18.1663 167.813 16.3388 166.942 12.4517L165.579 12.7418C166.449 16.948 166.42 18.8625 165.347 28.2032Z" fill="currentColor"/>
+        </svg>
+      </div>
+      <div class="footer__bottom">
+        <span>© 2026 ПОЛИФОРМ</span>
+        <span>Сделано в&nbsp;Воронеже</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ============ ORDER MODAL ============ -->
+  <div class="modal" id="orderModal" aria-hidden="true">
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__card" role="dialog" aria-modal="true" aria-label="Заказать флакон">
+      <button class="modal__close" type="button" data-modal-close aria-label="Закрыть">
+        <svg viewBox="0 0 16 16" fill="none"><path d="m3 3 10 10M13 3 3 13" stroke="currentColor" stroke-width="1.4"/></svg>
+      </button>
+      <h3 class="modal__title">Заказать флакон</h3>
+      <p class="modal__sub">Напишите нам в&nbsp;удобный мессенджер — менеджер ответит в&nbsp;течение часа.</p>
+      <div class="modal__msgrs">
+        <a class="btn btn--soft" href="https://t.me/polyform_vrn" target="_blank" rel="noopener">Telegram</a>
+        <a class="btn btn--soft" href="https://wa.me/79060761167" target="_blank" rel="noopener">WhatsApp</a>
+        <a class="btn btn--soft" href="viber://chat?number=%2B79060761167">Viber</a>
+      </div>
+      <div class="modal__divider"><span>или оставьте контакты</span></div>
+      <form class="modal__form" onsubmit="return false;">
+        <label class="field">
+          <span class="field__label">Имя и телефон</span>
+          <input type="text" name="contact" placeholder="Иван, +7 900 000-00-00" autocomplete="tel">
+        </label>
+        <button type="submit" class="btn btn--lime">Жду звонка</button>
+      </form>
+      <p class="contact__consent">Нажимая кнопку, вы соглашаетесь с&nbsp;политикой обработки персональных данных.</p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.14/dist/lenis.min.js"></script>
+  <script src="assets/main.js"></script>
+</body>
+</html>
