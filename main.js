@@ -106,27 +106,22 @@
   var heroSlider = document.getElementById('heroSlider');
   if (heroSlider) {
     var hSlides = heroSlider.querySelectorAll('.hslide');
-    var hDots = heroSlider.querySelectorAll('.hero__dot');
+    var hCounter = document.getElementById('heroCounter');
     var hCurrent = 0;
     var hTimer = null;
     var hGoTo = function (i) {
       hSlides[hCurrent].classList.remove('is-active');
-      hDots[hCurrent].classList.remove('is-active');
       hCurrent = (i + hSlides.length) % hSlides.length;
       hSlides[hCurrent].classList.add('is-active');
-      hDots[hCurrent].classList.add('is-active');
+      if (hCounter) {
+        hCounter.textContent = (hCurrent + 1) + '/' + hSlides.length;
+        hCounter.setAttribute('aria-label', 'Слайд ' + (hCurrent + 1) + ' из ' + hSlides.length);
+      }
     };
     var hStart = function () {
       if (prefersReducedMotion) return;
       hTimer = setInterval(function () { hGoTo(hCurrent + 1); }, 5000);
     };
-    hDots.forEach(function (dot, i) {
-      dot.addEventListener('click', function () {
-        clearInterval(hTimer);
-        hGoTo(i);
-        hStart();
-      });
-    });
     heroSlider.addEventListener('mouseenter', function () { clearInterval(hTimer); });
     heroSlider.addEventListener('mouseleave', function () { hStart(); });
     hStart();
@@ -191,7 +186,7 @@
     });
   }
 
-  /* ---------- Founder quote: words scrub from grey to ink/lime ---------- */
+  /* ---------- Founder quote: words scrub from grey to ink ---------- */
   function initQuote() {
     var quote = document.getElementById('quoteText');
     if (!quote) return;
@@ -222,7 +217,7 @@
       { color: '#c9cbbe' },
       {
         color: function (i, el) {
-          return el.classList.contains('q-word--accent') ? '#cef79e' : '#222f30';
+          return '#222f30';
         },
         stagger: 0.12,
         ease: 'none',
