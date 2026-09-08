@@ -44,10 +44,10 @@
   --section-gap: clamp(40px, 4.5vw, 70px);
 
   /* Radii */
-  --r-btn: 8px;
-  --r-nav: 12px;
-  --r-card: 16px;
-  --r-card-lg: 20px;
+  --r-btn: 10px;
+  --r-nav: 10px;
+  --r-card: 10px;
+  --r-card-lg: 10px;
   --r-pill: 9999px;
 }
 
@@ -103,7 +103,7 @@ button, input, textarea { font: inherit; color: inherit; }
   gap: 16px;
   margin: 16px var(--pad-x) 0;
   padding: 10px 10px 10px 26px;
-  border-radius: 18px;
+  border-radius: 10px;
   background: var(--tissue);
 }
 /* slides back in when scrolling up (body padding compensates the gap) */
@@ -249,21 +249,21 @@ button, input, textarea { font: inherit; color: inherit; }
 .section--paper { background: var(--paper); }
 
 /* ---------- Rounded colour transitions ----------
-   Every band that changes colour gets 60px top corners.
+   Every band that changes colour gets 10px top corners.
    Bands whose corner notches must show the PREVIOUS band's
-   colour (not the white body) overlap it by the same 60px. */
-.about, .hscroll, .quality, .popular, .silk, .process, .contact, .certs, .footer {
-  border-radius: 60px 60px 0 0;
+   colour (not the white body) overlap it by the same 10px. */
+.about, .hscroll, .quality, .popular, .silk, .quote, .process, .contact, .certs, .footer {
+  border-radius: 10px 10px 0 0;
 }
 .hscroll, .popular, .process, .certs, .footer {
-  margin-top: -60px;
+  margin-top: -10px;
   position: relative;
   z-index: 2;
 }
-/* bands overlapped by the next one: +60px bottom, so the visible gap
+/* bands overlapped by the next one: +10px bottom, so the visible gap
    before the seam equals the gap after it */
 .about, .quality, .quote, .contact, .news {
-  padding-bottom: calc(var(--section-gap) + 60px);
+  padding-bottom: calc(var(--section-gap) + 10px);
 }
 
 /* ============================================================
@@ -450,7 +450,7 @@ button, input, textarea { font: inherit; color: inherit; }
 
 .hscroll__track {
   display: flex;
-  gap: clamp(20px, 2.5vw, 44px);
+  gap: 20px;
   padding-inline: var(--pad-x);
   width: max-content;
   will-change: transform;
@@ -557,7 +557,7 @@ button, input, textarea { font: inherit; color: inherit; }
   gap: clamp(16px, 2vw, 28px);
 }
 .qcard {
-  background: var(--paper);
+  background: var(--tissue);
   border-radius: var(--r-card-lg);
   padding: clamp(24px, 3vw, 44px);
   display: flex;
@@ -650,6 +650,17 @@ button, input, textarea { font: inherit; color: inherit; }
 /* ============================================================
    FOUNDER QUOTE (bone band, scrub-coloured words)
    ============================================================ */
+.quote__layout {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  gap: clamp(32px, 5vw, 96px);
+}
+.quote__copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .quote__text {
   font-size: var(--text-heading-lg);
   line-height: 1.1;
@@ -657,6 +668,9 @@ button, input, textarea { font: inherit; color: inherit; }
   font-weight: 400;
   max-width: 26ch;
   color: var(--ink);
+}
+@media (min-width: 861px) {
+  .quote__text { font-size: clamp(38px, 2.5vw, 44px); }
 }
 .quote__text i { font-style: normal; color: var(--lime); }
 .q-word { will-change: color; }
@@ -687,6 +701,85 @@ button, input, textarea { font: inherit; color: inherit; }
   letter-spacing: -0.02em;
   color: var(--graphite);
 }
+.quote__video {
+  position: relative;
+  min-height: clamp(320px, 30vw, 520px);
+  overflow: hidden;
+  border-radius: var(--r-card-lg);
+  background: var(--ink);
+  color: var(--paper);
+}
+.quote__video::after {
+  content: '';
+  position: absolute;
+  inset: 42% 0 0;
+  background: linear-gradient(to bottom, transparent, rgba(34, 47, 48, 0.82));
+  pointer-events: none;
+}
+.quote__video > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 62% center;
+  opacity: 0.92;
+}
+.quote__video-label {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 1;
+  padding: 8px 12px;
+  border-radius: var(--r-btn);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+  font-size: var(--text-caption);
+}
+.quote__video-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  width: 58px;
+  height: 58px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--r-pill);
+  background: var(--ink);
+  color: var(--paper);
+  transform: translate(-50%, -50%);
+}
+.quote__video-play svg { width: 22px; height: 22px; margin-left: 2px; }
+.quote__video-controls {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.quote__video-control {
+  width: 32px;
+  height: 32px;
+  display: grid;
+  flex: 0 0 32px;
+  place-items: center;
+  border-radius: var(--r-btn);
+  background: rgba(255, 255, 255, 0.16);
+  backdrop-filter: blur(8px);
+}
+.quote__video-control--play { background: var(--paper); color: var(--ink); }
+.quote__video-control svg { width: 16px; height: 16px; }
+.quote__video-progress {
+  height: 3px;
+  flex: 1;
+  overflow: hidden;
+  border-radius: var(--r-pill);
+  background: rgba(255, 255, 255, 0.4);
+}
+.quote__video-progress span { display: block; width: 27%; height: 100%; background: var(--paper); }
+.quote__video-time { font-size: 12px; white-space: nowrap; }
 
 /* ============================================================
    05 — PROCESS (white band, bone step cards)
@@ -732,9 +825,9 @@ button, input, textarea { font: inherit; color: inherit; }
 .process__step-text { color: var(--graphite); max-width: 48ch; }
 .process__media {
   width: 100%;
-  margin: 0 0 -60px;
+  margin: 0 0 -10px;
   position: relative;
-  border-radius: 60px 60px 0 0;
+  border-radius: 10px 10px 0 0;
 }
 .process { padding-bottom: 0; }
 
@@ -1053,6 +1146,8 @@ button, input, textarea { font: inherit; color: inherit; }
   .process__layout,
   .contact__layout,
   .certs__layout { grid-template-columns: 1fr; }
+  .quote__layout { grid-template-columns: 1fr; }
+  .quote__video { min-height: 0; aspect-ratio: 16 / 10; }
   .about__media,
   .about__text { grid-column: auto; }
   .about .stats { grid-column: auto; grid-row: auto; }
@@ -1226,7 +1321,7 @@ button, input, textarea { font: inherit; color: inherit; }
 .silk__card {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background: var(--paper);
+  background: var(--tissue);
   border-radius: var(--r-card-lg);
   overflow: hidden;
   padding: 10px;

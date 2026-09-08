@@ -38,7 +38,10 @@ button:focus-visible, a:focus-visible, select:focus-visible { outline: 2px solid
 }
 select { font: inherit; color: var(--ink); background: var(--bone); border: 1px solid var(--tissue); border-radius: var(--r-btn); padding: 12px 32px 12px 14px; min-height: 48px; max-width: 100%; }
 .prcard__body { gap: 0; }
-.prcard__media { border-radius: 15px; }
+.prcard__media,
+.ncard__media,
+.silk__media,
+.product-dialog__media { border-radius: 5px; }
 .prcard__specs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 16px 0 20px; font-size: var(--text-body); }
 .prcard__specs dt { font-size: var(--text-caption); color: var(--graphite); margin-bottom: 4px; }
 .prcard__closure { grid-column: 1 / -1; }
