@@ -3,7 +3,6 @@
 .catalog-page h1, .catalog-page h2, .catalog-page h3 { font-weight: 400; }
 .catalog-page :focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
 .catalog-page .nav { position: relative; }
-.catalog-mobile-menu { display: none; }
 .catalog-main { padding-bottom: 80px; }
 .breadcrumbs { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding-block: 24px; font-size: 13px; color: var(--graphite); }
 .breadcrumbs a:hover { text-decoration: underline; }
@@ -123,11 +122,6 @@
   .catalog-page .nav__links, .catalog-page .nav__contacts { display: none; }
   .catalog-page .nav { padding-left: 16px; }
   .catalog-page .nav__bar { gap: 8px; }
-  .catalog-mobile-menu { display: block; }
-  .catalog-mobile-menu summary { list-style: none; cursor: pointer; padding: 14px; font-size: 13px; }
-  .catalog-mobile-menu summary::-webkit-details-marker { display:none; }
-  .catalog-mobile-menu nav { position: absolute; left: 0; right: 0; top: calc(100% + 8px); background: var(--tissue); border-radius: 10px; padding: 16px; z-index: 10; display: grid; }
-  .catalog-mobile-menu a { padding: 14px; }
   .catalog-heading { display: block; margin-bottom: 24px; }
   .catalog-heading h1 { font-size: 36px; margin-bottom: 16px; }
   .catalog-heading p { max-width: 42ch; }

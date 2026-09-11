@@ -54,6 +54,7 @@
     }
   }
   function onScrollDir(y) {
+    if (nav.classList.contains('is-menu-open')) { lastY = y; return; }
     var goingUp = y < lastY;
     /* engage as soon as the static bar is fully above the viewport */
     var navGone = 16 + nav.offsetHeight;

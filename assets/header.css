@@ -1,0 +1,43 @@
+/* Shared header controls across the landing, catalog and product pages. */
+.nav { position: relative; z-index: 100; }
+.nav .btn--cta.button-wipe {
+  --button-base: var(--ink);
+  --button-text: var(--paper);
+  --button-fill: var(--paper);
+  --button-inverse: var(--ink);
+  --button-outline: transparent;
+  min-height: 44px;
+}
+.nav .msgr svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.nav .nav__phone { display: inline-flex; }
+.nav .nav__contacts { display: flex; }
+.nav__toggle { display: none; border: 0; width: 48px; height: 48px; flex: 0 0 48px; align-items: center; justify-content: center; background: var(--paper); color: var(--ink); border-radius: 10px; }
+.nav__toggle svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; }
+.nav__toggle .nav__close-icon { display: none; }
+.nav__toggle[aria-expanded="true"] .nav__menu-icon { display: none; }
+.nav__toggle[aria-expanded="true"] .nav__close-icon { display: block; }
+.nav__toggle:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+.nav__panel { position: absolute; top: calc(100% + 8px); left: 0; right: 0; padding: 24px; border-radius: 10px; background: var(--tissue); max-height: calc(100dvh - 110px); overflow: auto; overscroll-behavior: contain; box-shadow: 0 12px 28px rgba(34,47,48,.09); }
+.nav__panel-links { display: grid; }
+.nav__panel-links a { display: flex; align-items: center; min-height: 52px; font-size: 20px; }
+.nav__panel-links a:hover { text-decoration: underline; text-underline-offset: 5px; }
+.nav__panel-contacts { margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(34,47,48,.12); }
+.nav__panel .nav__phone { font-size: 20px; min-height: 48px; margin-bottom: 12px; }
+.nav__panel-icons { display: flex; flex-wrap: wrap; gap: 12px; }
+.nav__panel .msgr { width: 48px; height: 48px; flex-basis: 48px; }
+@media (max-width: 1200px) {
+  .nav .nav__links, .nav .nav__contacts { display: none; }
+  .nav .nav__toggle { display: inline-flex; }
+  .nav .nav__bar--menu { display: flex; gap: 8px; }
+}
+@media (min-width: 1201px) {
+  .nav .nav__links { display: flex; }
+  .nav .nav__panel { display: none; }
+}
+@media (max-width: 400px) {
+  .nav { padding-left: 12px; gap: 8px; }
+  .nav__logo svg { height: 15px; }
+  .nav .btn--cta { padding-inline: 12px; font-size: 12px; }
+  .nav .nav__bar--menu { gap: 6px; }
+  .nav__panel { padding: 20px; }
+}
