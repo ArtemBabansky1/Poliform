@@ -1,13 +1,14 @@
 /* Product information and RFQ actions remain usable independently of animation CDNs. */
 (() => {
   'use strict';
-  const cards = [...document.querySelectorAll('#popular .prcard')];
+  const cards = [...document.querySelectorAll('#popular .prcard, #new-products .prcard')];
   const products = new Map(cards.map(card => [card.dataset.product, {
     name: card.querySelector('.prcard__name').textContent,
     volume: card.dataset.volume,
     closure: card.dataset.closure,
-    image: card.querySelector('img').getAttribute('src'),
-    alt: card.querySelector('img').alt
+    material: card.dataset.material || 'ПНД',
+    image: card.querySelector('img')?.getAttribute('src') || '',
+    alt: card.querySelector('img')?.alt || ''
   }]));
   const form = document.getElementById('requestForm');
   const productDialog = document.getElementById('productDialog');
@@ -34,7 +35,7 @@
       img.src = item.image; img.alt = item.alt;
       const specs = document.getElementById('productSpecs');
       specs.replaceChildren();
-      [['Объём', `${item.volume} мл`], ['Материал', 'ПНД / HDPE'], ['Укупорка', item.closure]].forEach(([label, value]) => {
+      [['Объём', `${item.volume} мл`], ['Материал', item.material], ['Горловина', item.closure]].forEach(([label, value]) => {
         const row = document.createElement('div');
         const dt = document.createElement('dt'); const dd = document.createElement('dd');
         dt.textContent = label; dd.textContent = value; row.append(dt, dd); specs.append(row);
@@ -56,6 +57,16 @@
   document.querySelectorAll('[data-request]').forEach(button => button.addEventListener('click', () => request(button.dataset.request, button.dataset.item)));
   document.getElementById('productQuote').addEventListener('click', () => request('Расчёт партии', selectedProduct));
   document.getElementById('productSample').addEventListener('click', () => request('Образцы', selectedProduct));
+
+  // Carry the selected catalog product and variant into the existing request flow.
+  const params = new URLSearchParams(location.search);
+  if (params.has('product')) {
+    form.elements.request.value = params.get('request') === 'sample' ? 'Образцы' : 'Расчёт партии';
+    form.elements.product.value = params.get('product') + (params.get('variant') ? ' — ' + params.get('variant') : '');
+    const volume = Number(params.get('volume'));
+    if (Number.isFinite(volume) && volume > 0) form.elements.volume.value = volume;
+    form.querySelector('.field__label').textContent = `Запрос: ${form.elements.product.value}`;
+  }
 
   const requestDialog = document.getElementById('requestDialog');
   let draft = '';

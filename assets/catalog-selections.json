@@ -1,0 +1,4 @@
+{
+  "popular": {"productIds": [1348, 950, 996, 1048], "catalogQuery": "collection=popular"},
+  "new": {"productIds": [1584, 1586, 1587, 1588], "catalogQuery": "category=kosmetika", "note": "Временная подборка флаконов для косметики. Заменить после утверждения новинок."}
+}

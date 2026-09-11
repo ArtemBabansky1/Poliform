@@ -1,0 +1,4672 @@
+{
+  "source": {
+    "file": "merkuriy.WordPress.2026-09-09.xml",
+    "site": "https://m-pet.ru",
+    "exportedAt": "Wed, 09 Sep 2026 11:13:19 +0000"
+  },
+  "categories": {
+    "butylki-pet-100-ml": "Бутылки ПЭТ 100 мл",
+    "butylki-pet-dlya-vody": "Бутылки ПЭТ для воды",
+    "butylki-pet-dlya-soka": "Бутылки ПЭТ для сока",
+    "butylki-pet-dlya-sousa": "Бутылки ПЭТ для соуса",
+    "butylki-pet-dlya-khimii": "Бутылки ПЭТ для химии",
+    "pet": "ПЭТ бутылки",
+    "pet-butylki-100-ml": "ПЭТ бутылки 100 мл",
+    "tara-dlya-kosmeticheskikh-predpriyatiy": "Тара для косметических производств",
+    "butylki-pet-ploskie": "Бутылки ПЭТ плоские",
+    "butylki-pet-s-uzkim-gorlyshkom": "Бутылки ПЭТ с узким горлышком",
+    "butylki-pet-mini": "ПЭТ бутылки мини (до 200 мл)",
+    "butylki-pet-s-shirokim-gorlyshkom": "Бутылки ПЭТ с широким горлышком",
+    "related": "Сопутствующие",
+    "butylki-pet-dlya-masla": "Бутылки ПЭТ для масла",
+    "butylki-pet-250-ml": "Бутылки ПЭТ 250 мл",
+    "butylki-pet-300-ml": "Бутылки ПЭТ 300 мл",
+    "butylki-pet-cvetnye": "Бутылки ПЭТ цветные",
+    "butylki-pet-dlya-moloka": "Бутылки ПЭТ для молока",
+    "butylki-pet-dlya-jogurta": "ПЭТ бутылки для йогурта",
+    "butylki-pet-dlya-kefira": "ПЭТ бутылки для кефира и ряженки",
+    "tara-dlya-molochnykh-predpriyatiy": "Тара для молочных предприятий",
+    "butylki-pet-500-ml": "Бутылки ПЭТ 500 мл",
+    "butylki-pet-kvadratnye": "Бутылки ПЭТ квадратные",
+    "butylki-pet-pishchevye": "Бутылки ПЭТ пищевые",
+    "butylki-pet-dlya-uksusa": "ПЭТ бутылки для уксуса",
+    "tara-dlya-bytovoy-khimii": "Тара для бытовой химии",
+    "butylki-pet-750-ml": "Бутылки ПЭТ 750 мл",
+    "butylki-pet-750-ml-pet": "ПЭТ бутылки 750 мл",
+    "butylki-pet-1-litr": "Бутылки ПЭТ 1 литр",
+    "pet1litr": "ПЭТ Бутылка 1 литр",
+    "tara-dlya-maslozavodov": "Тара для маслозаводов",
+    "butylki-pet-kruglye": "Круглые ПЭТ бутылки",
+    "tara-dlya-sokov": "Тара для производителей соков",
+    "butylki-pet-dlya-piva": "Бутылки ПЭТ для пива",
+    "butylki-pet-dlya-gazirovki": "ПЭТ бутылки под газированные напитки",
+    "butylki-pet-prozrachnye": "ПЭТ бутылки прозрачные",
+    "tara-dlya-pivovarni": "Тара для пивоварен",
+    "butylki-pet-1-5-litra": "Бутылки ПЭТ 1,5 литра",
+    "butylki-pet-korichnevye": "Бутылки ПЭТ коричневые",
+    "butylki-pet-temnye": "Бутылки ПЭТ темные",
+    "butylki-pet-dlya-kvasa": "ПЭТ бутылки для кваса",
+    "butylki-pet-2-litra": "Бутылки ПЭТ 2 литра",
+    "butylki-pet-3-litra": "Бутылки ПЭТ 3 литра",
+    "kanistry-pet": "Канистры ПЭТ 4–5 литров",
+    "butylki-pet-dlya-stekloomyvatelya": "ПЭТ бутылки для стеклоомывателя",
+    "tara-dlya-avtohimii": "Тара для автохимии",
+    "tara-dlya-selskogo-khozyaystva": "Тара для сельского хозяйства",
+    "butylki-pet-5-litrov": "Бутылки ПЭТ 5 литров",
+    "butylki-pet-s-ruchkoy": "ПЭТ бутылки с ручкой",
+    "flakony-pet-dlya-shampunya": "ПЭТ флаконы для шампуня и гелей",
+    "flakony-pet-dlya-kosmetiki": "ПЭТ флаконы для косметики",
+    "kosmetika": "Флаконы для косметики оптом",
+    "misc": "Misc",
+    "flakony-pet-dlya-antiseptika": "ПЭТ флаконы для антисептика"
+  },
+  "products": [
+    {
+      "id": "894",
+      "slug": "pet-butylka-01-l",
+      "name": "ПЭТ бутылка 0,1 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-100-ml",
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-dlya-khimii",
+        "pet",
+        "pet-butylki-100-ml",
+        "tara-dlya-kosmeticheskikh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "100 мл"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "100 мл",
+      "volumeMl": 100,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/716aff66-71f3-4af7-9b7d-79fbc4b09817-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-100-ml/pet-butylka-01-l/",
+      "price": "8.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1374",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/716aff66-71f3-4af7-9b7d-79fbc4b09817-min.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1375",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "8.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1fcca511-5e86-4f24-8e1b-575c9b566a28.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-08 14:01:33"
+    },
+    {
+      "id": "897",
+      "slug": "pet-butylka-012-l",
+      "name": "ПЭТ бутылка 0,12 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-ploskie",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-mini",
+        "tara-dlya-kosmeticheskikh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "120 мл"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "120 мл",
+      "volumeMl": 120,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/ec96aff4-4b51-45a8-86cb-54507b5168d7-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-012-l/",
+      "price": "8.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1377",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "8.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f6a21c15-7833-45be-9a6a-5142850480e5.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1378",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/ec96aff4-4b51-45a8-86cb-54507b5168d7-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-08 14:10:27"
+    },
+    {
+      "id": "901",
+      "slug": "pet-butylka-013-l-gorchicza",
+      "name": "ПЭТ бутылка 0,13 л «Горчица»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "130 мл"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "130 мл",
+      "volumeMl": 130,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/728385a6-63f7-42ab-b3a1-163e01e5fdc0-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-013-l-gorchicza/",
+      "price": "8.1",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1448",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.1",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/728385a6-63f7-42ab-b3a1-163e01e5fdc0-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-08 14:17:10"
+    },
+    {
+      "id": "1075",
+      "slug": "stakan-02-l",
+      "name": "Стакан 0,2 л",
+      "status": "draft",
+      "categories": [
+        "related"
+      ],
+      "attributes": {},
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/0b6fef78-f8a9-4842-a3f3-d39958e8412e-min.png",
+      "sourceUrl": "https://m-pet.ru/?post_type=product&p=1075",
+      "price": "0.95",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:33:07"
+    },
+    {
+      "id": "903",
+      "slug": "pet-butylka-013-l",
+      "name": "ПЭТ бутылка 0,13 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "tara-dlya-kosmeticheskikh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "130 мл"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "130 мл",
+      "volumeMl": 130,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/82ebaac5-cd0e-4511-a569-bf252bd9b76f-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-013-l/",
+      "price": "8.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1379",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "8.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/7f6ab4f0-7f8f-4c40-9f82-b5e0ea158e90.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1380",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/82ebaac5-cd0e-4511-a569-bf252bd9b76f-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-08 14:19:42"
+    },
+    {
+      "id": "906",
+      "slug": "pet-butylka-022-l",
+      "name": "ПЭТ бутылка 0,22 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "220 мл"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "220 мл",
+      "volumeMl": 220,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/e7d63e82-d738-43bb-bab0-d1c8e5255bd1-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-022-l/",
+      "price": "8.1",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1455",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.1",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/e7d63e82-d738-43bb-bab0-d1c8e5255bd1-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-08 14:22:17"
+    },
+    {
+      "id": "908",
+      "slug": "pet-butylka-02-l",
+      "name": "ПЭТ бутылка 0,2 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-masla",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-dlya-khimii",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-mini"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "200 мл"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "200 мл",
+      "volumeMl": 200,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/6330a974-f4a1-4f81-9d29-eb1c52e94c48-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-02-l/",
+      "price": "9.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1381",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/6330a974-f4a1-4f81-9d29-eb1c52e94c48-min.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1382",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/e51e2e58-0988-4cac-a748-21746b3dfc24.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-10 14:17:22"
+    },
+    {
+      "id": "910",
+      "slug": "pet-butylka-025-l",
+      "name": "ПЭТ бутылка 0,25 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-250-ml",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "250 мл"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "250 мл",
+      "volumeMl": 250,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/a7f19956-4e3d-447d-beb6-7f8dc49cde3a-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-025-l/",
+      "price": "8.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1456",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a7f19956-4e3d-447d-beb6-7f8dc49cde3a-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-10 14:19:50"
+    },
+    {
+      "id": "912",
+      "slug": "pet-butylka-025-l-klever",
+      "name": "ПЭТ бутылка 0,25 л «Клевер»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-250-ml",
+        "butylki-pet-ploskie",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "250 мл"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "250 мл",
+      "volumeMl": 250,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/576140cb-0721-4fb8-b856-707c675a9b06-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-250-ml/pet-butylka-025-l-klever/",
+      "price": "11.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1383",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/576140cb-0721-4fb8-b856-707c675a9b06-min.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1384",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/b024a711-4003-4929-9db9-2100ac3bf61c.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-10 14:21:37"
+    },
+    {
+      "id": "915",
+      "slug": "pet-butylka-026-l",
+      "name": "ПЭТ бутылка 0,26 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "260 мл"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "260 мл",
+      "volumeMl": 260,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/04aa1b06-9600-4eeb-aa99-c161e257c68f-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-026-l/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1454",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/04aa1b06-9600-4eeb-aa99-c161e257c68f-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-10 14:27:14"
+    },
+    {
+      "id": "918",
+      "slug": "pet-butylka-03-l",
+      "name": "ПЭТ бутылка 0,35 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "350 мл"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "350 мл",
+      "volumeMl": 350,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/ae1b54e1-5662-4715-b0a2-e61b2828a4ae-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-03-l/",
+      "price": "8.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1458",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/ae1b54e1-5662-4715-b0a2-e61b2828a4ae-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-10 14:30:52"
+    },
+    {
+      "id": "920",
+      "slug": "pet-butylka-033-l",
+      "name": "ПЭТ бутылка 0,33 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-300-ml",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_volume": [
+          "330 мл"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "330 мл",
+      "volumeMl": 330,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/56fe60ca-1d3e-47d1-bdbd-4f842fffe159-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-033-l/",
+      "price": "9.3",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1385",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.3",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/d8a8e3b0-4efb-40b5-915b-8acf1d26b7b8.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1386",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/56fe60ca-1d3e-47d1-bdbd-4f842fffe159-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-10 14:32:43"
+    },
+    {
+      "id": "925",
+      "slug": "pet-butylka-038-l",
+      "name": "ПЭТ бутылка 0,38 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_volume": [
+          "380 мл"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "380 мл",
+      "volumeMl": 380,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/498fe343-31ea-4e22-bce9-a221cafdcba8-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-038-l/",
+      "price": "8.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1459",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/498fe343-31ea-4e22-bce9-a221cafdcba8-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-10 14:40:41"
+    },
+    {
+      "id": "927",
+      "slug": "pet-butylka-048-l-volna",
+      "name": "ПЭТ бутылка 0,48 л «Волна»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "butylki-pet-cvetnye",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_volume": [
+          "480 мл"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_color": [
+          "Бирюзовый",
+          "Голубой",
+          "Зеленый"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "480 мл",
+      "volumeMl": 480,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/501fcc03-97ae-4061-9286-fa35fc4307bd.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-048-l-volna/",
+      "price": "10.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1393",
+          "attributes": {
+            "pa_color": "Зеленый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/501fcc03-97ae-4061-9286-fa35fc4307bd.png",
+          "stock": "outofstock"
+        },
+        {
+          "id": "1482",
+          "attributes": {
+            "pa_color": "Голубой"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/412ae3c1-8aba-4f7a-a21d-7d4155160cb7.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1483",
+          "attributes": {
+            "pa_color": "Бирюзовый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/6030d493-8ff8-4323-bc8f-bffc91b16159.png",
+          "stock": "outofstock"
+        }
+      ],
+      "date": "2026-01-12 12:25:23"
+    },
+    {
+      "id": "931",
+      "slug": "pet-butylka-048-l-gladkaya",
+      "name": "ПЭТ бутылка 0,48 л «Гладкая»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_volume": [
+          "480 мл"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "480 мл",
+      "volumeMl": 480,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/fb768ad9-75ae-4e4a-8fb2-8fc913109ad2-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-048-l-gladkaya/",
+      "price": "10.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1389",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/2a37d6d7-b9ef-4713-ba4a-dc2b6af150da.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1390",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/fb768ad9-75ae-4e4a-8fb2-8fc913109ad2-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 12:35:16"
+    },
+    {
+      "id": "934",
+      "slug": "pet-butylka-049-l",
+      "name": "ПЭТ бутылка 0,49 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_volume": [
+          "490 мл"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "490 мл",
+      "volumeMl": 490,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/9ee9eb37-333d-488c-ad28-c0b376e42ce5-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-049-l/",
+      "price": "9.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1394",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/e2a72d08-1275-450e-a538-a4c100afed70.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1395",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/9ee9eb37-333d-488c-ad28-c0b376e42ce5-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 12:42:40"
+    },
+    {
+      "id": "937",
+      "slug": "pet-butylka-05-l-moloko",
+      "name": "ПЭТ бутылка 0,5 л «Молоко»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-moloka",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-jogurta",
+        "butylki-pet-dlya-kefira",
+        "tara-dlya-molochnykh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "104 шт"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/a7f19956-4e3d-447d-beb6-7f8dc49cde3a-min-1.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-05-l-moloko/",
+      "price": "10.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1401",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "10.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f8d4638e-0019-4fa9-9dee-f2f4ac4441f5.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1402",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a7f19956-4e3d-447d-beb6-7f8dc49cde3a-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 12:46:51"
+    },
+    {
+      "id": "943",
+      "slug": "pet-butylka-05-l-moloko-kvadratnaya-2",
+      "name": "ПЭТ бутылка 0,5 л «Молоко квадратная»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-kvadratnye",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-jogurta",
+        "butylki-pet-dlya-kefira",
+        "tara-dlya-molochnykh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_в-упаковке": [
+          "90 шт"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/2f9a4067-cb38-4fc8-9289-b055aa82a62f-min-1.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-05-l-moloko-kvadratnaya-2/",
+      "price": "10.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1403",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "10.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/9b2874fd-701a-4bf6-a61a-6010508d07e1.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1404",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/2f9a4067-cb38-4fc8-9289-b055aa82a62f-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 12:52:31"
+    },
+    {
+      "id": "944",
+      "slug": "pet-butylka-05-l-lampada",
+      "name": "ПЭТ бутылка 0,5 л «Лампада»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "pet"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "200 шт"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/a2576e87-48c3-424f-a1c5-9ce84f35f620-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-500-ml/pet-butylka-05-l-lampada/",
+      "price": "10.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1444",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f98e13c0-d124-40aa-b0f2-67624c0c9ce5.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1445",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a2576e87-48c3-424f-a1c5-9ce84f35f620-min.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 12:55:53"
+    },
+    {
+      "id": "947",
+      "slug": "pet-butylka-05-l-kvadratnaya-lajt",
+      "name": "ПЭТ бутылка 0,5 л «Квадратная Лайт»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-kvadratnye",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "400 шт"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/6868fdbf-5dec-4f89-ba60-1f3727b04ae5-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-500-ml/pet-butylka-05-l-kvadratnaya-lajt/",
+      "price": "10.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1405",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/033925b8-bf1d-4808-92e3-e102cc2a7221.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1406",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/6868fdbf-5dec-4f89-ba60-1f3727b04ae5-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 13:20:58"
+    },
+    {
+      "id": "950",
+      "slug": "pet-butylka-05-l-volna",
+      "name": "ПЭТ бутылка 0,5 л «Волна»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "50 шт"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/e02abcba-5dd8-4470-bc39-923f0938069f-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-05-l-volna/",
+      "price": "9.5",
+      "popular": true,
+      "variants": [
+        {
+          "id": "1411",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/transform_the_plastic_bottle_material_to_warm_tran-1771406962471-photoroom.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1412",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/e02abcba-5dd8-4470-bc39-923f0938069f-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 13:45:19"
+    },
+    {
+      "id": "951",
+      "slug": "pet-butylka-05-l-volna-2",
+      "name": "ПЭТ бутылка 0,5 л «Акваминерале»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-pishchevye",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "400 шт"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/4ae2c037-f46a-4332-93c3-6266939cd68b-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-05-l-volna-2/",
+      "price": "9.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1396",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/123c9f9f-7a14-4dc7-a349-e3bb0b3f7894.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1397",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/4ae2c037-f46a-4332-93c3-6266939cd68b-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 13:47:20"
+    },
+    {
+      "id": "956",
+      "slug": "pet-butylka-05-l-akvaminerale-2",
+      "name": "ПЭТ бутылка 0,5 л «Квадратная»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-kvadratnye",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "400 шт"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/f56ed2c3-5c10-4b9a-9efe-7e07c22e0c28-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-05-l-akvaminerale-2/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1461",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f56ed2c3-5c10-4b9a-9efe-7e07c22e0c28-min.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1499",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/03/remove_background_from_this_amber-brown_bottle_ima-1774946517218.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 13:54:25"
+    },
+    {
+      "id": "962",
+      "slug": "pet-butylka-05-l-himiya-kopirovat",
+      "name": "ПЭТ бутылка 0,5 л «Химия»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-dlya-khimii",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-uksusa",
+        "tara-dlya-bytovoy-khimii"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "400 шт"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_color": [
+          "Зеленый",
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/002d70da-2c47-43f4-9379-68a3fa43cf4c.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-05-l-himiya-kopirovat/",
+      "price": "10.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1398",
+          "attributes": {
+            "pa_color": "Зеленый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/6021709b-31ab-41b3-b73c-034ec37924f5-min.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1399",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/9cfe2e64-a99c-4acb-a959-a0cb7b6d17b6.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1400",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/002d70da-2c47-43f4-9379-68a3fa43cf4c.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 14:07:03"
+    },
+    {
+      "id": "964",
+      "slug": "pet-butylka-05-l-ploskaya",
+      "name": "ПЭТ бутылка 0,71 л «Молоко»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-750-ml",
+        "butylki-pet-dlya-moloka",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet",
+        "butylki-pet-750-ml-pet",
+        "butylki-pet-dlya-kefira",
+        "tara-dlya-molochnykh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "70 шт"
+        ],
+        "pa_volume": [
+          "710 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 750 мл"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "710 мл",
+      "volumeMl": 710,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/f0577597-b039-4ba1-92c3-46ad6fb73188-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-05-l-ploskaya/",
+      "price": "10.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1407",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/555f48c9-a221-4c24-8bbd-691685b5d3c1.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1408",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f0577597-b039-4ba1-92c3-46ad6fb73188-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:08:36"
+    },
+    {
+      "id": "971",
+      "slug": "pet-butylka-071-l-kuvshinchik-2",
+      "name": "ПЭТ бутылка 0,85 л «Кувшинчик»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "250 шт"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_volume": [
+          "850 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "850 мл",
+      "volumeMl": 850,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/2a987de5-ef9a-4767-a755-bfd83464768f-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-071-l-kuvshinchik-2/",
+      "price": "10.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1409",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a0f92503-aaa2-473f-9b12-53c4cdf89ed6.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1410",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/2a987de5-ef9a-4767-a755-bfd83464768f-min.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 14:23:00"
+    },
+    {
+      "id": "972",
+      "slug": "pet-butylka-09-l-himiya",
+      "name": "ПЭТ бутылка 0,9 л «Химия»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-khimii",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-uksusa",
+        "tara-dlya-bytovoy-khimii"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_volume": [
+          "900 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "900 мл",
+      "volumeMl": 900,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/b2ffe047-c475-4b02-a760-a38e4dc3adc2.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-09-l-himiya/",
+      "price": "12.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1462",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/b2ffe047-c475-4b02-a760-a38e4dc3adc2.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:25:05"
+    },
+    {
+      "id": "978",
+      "slug": "pet-butylka-1-l-moloko",
+      "name": "ПЭТ бутылка 1 л «Молоко»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-dlya-moloka",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet1litr",
+        "pet",
+        "butylki-pet-dlya-jogurta",
+        "tara-dlya-molochnykh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/1302c9de-512e-4d67-8ae5-b2e36d831fce-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/pet1litr/pet-butylka-1-l-moloko/",
+      "price": "10.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1446",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/69ab93e4-b62c-440b-a337-0b28ffc3f532.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1447",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1302c9de-512e-4d67-8ae5-b2e36d831fce-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:31:49"
+    },
+    {
+      "id": "981",
+      "slug": "pet-butylka-1-l-klassika",
+      "name": "ПЭТ бутылка 1 л «Классика»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet1litr",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "70 шт"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/66061817-ebd3-479e-93b9-5070b6c495f4-min-2.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/pet1litr/pet-butylka-1-l-klassika/",
+      "price": "12.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1421",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "12.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/8d44fd44-c9f7-4200-be99-8f079e4dad50.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1422",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/66061817-ebd3-479e-93b9-5070b6c495f4-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:49:18"
+    },
+    {
+      "id": "984",
+      "slug": "pet-butylka-1-l-klassika-3",
+      "name": "ПЭТ бутылка 1 л «Масло»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "tara-dlya-maslozavodov"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "70 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_liquid-type": [
+          "Масло растительное"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/a3ddd6d0-499f-4720-a3af-ab07ff1f910c-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-1-l-klassika-3/",
+      "price": "10.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1464",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a3ddd6d0-499f-4720-a3af-ab07ff1f910c-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:52:34"
+    },
+    {
+      "id": "987",
+      "slug": "pet-butylka-1-l-bochonok",
+      "name": "ПЭТ бутылка 1 л «Бочонок»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "50 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/43743e3e-ec0f-4e2b-8687-a62ba77ada0d-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-1-l-bochonok/",
+      "price": "9.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1419",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/3b4e3ad7-05e1-48b8-88f4-865c2967c053.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1420",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/43743e3e-ec0f-4e2b-8687-a62ba77ada0d-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:56:20"
+    },
+    {
+      "id": "990",
+      "slug": "pet-butylka-1-l-kupol",
+      "name": "ПЭТ бутылка 1 л «Купол»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_в-упаковке": [
+          "250 шт",
+          "50 шт"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_liquid-type": [
+          "Масло растительное",
+          "Пиво"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/44536351-ef91-4c51-9ea1-26c9adf9dc21-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-1-l-kupol/",
+      "price": "9.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1417",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "9.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/477b9c28-ffa5-4fea-884a-bec97657f500.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1418",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/44536351-ef91-4c51-9ea1-26c9adf9dc21-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 14:59:52"
+    },
+    {
+      "id": "995",
+      "slug": "pet-butylka-1-l-vino-2",
+      "name": "ПЭТ бутылка 1 л «Вино»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-pishchevye",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "butylki-pet-kruglye",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_в-упаковке": [
+          "150 шт"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/ca09605e-2a47-431d-8e6b-33931be63f70-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-1-l-vino-2/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1415",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/c4885d44-9da7-41ab-9874-0f34e98b974f.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1416",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/ca09605e-2a47-431d-8e6b-33931be63f70-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:04:20"
+    },
+    {
+      "id": "996",
+      "slug": "pet-butylka-1-l-kvadratnaya",
+      "name": "ПЭТ бутылка 1 л «Квадратная»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-kvadratnye",
+        "pet",
+        "tara-dlya-sokov"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "88 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/6868fdbf-5dec-4f89-ba60-1f3727b04ae5-min-1.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-kvadratnye/pet-butylka-1-l-kvadratnaya/",
+      "price": "11",
+      "popular": true,
+      "variants": [
+        {
+          "id": "1423",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/033925b8-bf1d-4808-92e3-e102cc2a7221.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1424",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/6868fdbf-5dec-4f89-ba60-1f3727b04ae5-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:05:09"
+    },
+    {
+      "id": "1001",
+      "slug": "pet-butylka-1-l-bochkarev-2",
+      "name": "ПЭТ бутылка 1 л «Бочкарев»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_в-упаковке": [
+          "250 шт"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/23c145d6-1c40-4143-bf50-733cac9484eb.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-1-l-bochkarev-2/",
+      "price": "11.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1413",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/81cc6539-44a8-4435-bea8-dedefaf9da72-min.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1414",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/23c145d6-1c40-4143-bf50-733cac9484eb.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 15:08:50"
+    },
+    {
+      "id": "1002",
+      "slug": "pet-butylka-1-l-ploskaya",
+      "name": "ПЭТ бутылка 1 л «Плоская»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-ploskie",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/1cf75547-d6b1-41f3-b912-79409df83790-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-1-litr/pet-butylka-1-l-ploskaya/",
+      "price": "12",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1468",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1cf75547-d6b1-41f3-b912-79409df83790-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:19:31"
+    },
+    {
+      "id": "1004",
+      "slug": "pet-butylka-113-l",
+      "name": "ПЭТ бутылка 1,13 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-piva",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,13 л"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "1,13 л",
+      "volumeMl": 1130,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/f6602bd9-06de-4313-9280-866970768915-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-113-l/",
+      "price": "12.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1426",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "12.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/edfc5c3e-d686-4049-bd3c-838b747255da.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1427",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f6602bd9-06de-4313-9280-866970768915-min.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 15:21:11"
+    },
+    {
+      "id": "1008",
+      "slug": "pet-butylka-12-l",
+      "name": "ПЭТ бутылка 1,2 л «Классика»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-piva",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-gazirovki",
+        "butylki-pet-prozrachnye",
+        "tara-dlya-pivovarni"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,2 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,2 л",
+      "volumeMl": 1200,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-12-l/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1428",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_this_transparent_clear_bottle_to_warm_tr-1772178665231-photoroom.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1429",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:28:16"
+    },
+    {
+      "id": "1013",
+      "slug": "pet-butylka-13-l-2",
+      "name": "ПЭТ бутылка 1,3 л «Классика»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-piva",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,3 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,3 л",
+      "volumeMl": 1300,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-13-l-2/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1432",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_this_transparent_clear_bottle_to_warm_tr-1772178665231-photoroom.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1433",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 15:37:02"
+    },
+    {
+      "id": "1014",
+      "slug": "pet-butylka-138-l",
+      "name": "ПЭТ бутылка 1,38 л «Классика»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-piva",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-pishchevye",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,38 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,38 л",
+      "volumeMl": 1380,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-138-l/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1434",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_this_transparent_clear_bottle_to_warm_tr-1772178665231-photoroom.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1435",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 15:38:01"
+    },
+    {
+      "id": "1016",
+      "slug": "pet-butylka-144-l",
+      "name": "ПЭТ бутылка 1,44 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-masla",
+        "butylki-pet-dlya-piva",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,44 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Масло растительное",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,44 л",
+      "volumeMl": 1440,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/7e51b928-d020-4ebe-9c95-5be37703e783-1-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-144-l/",
+      "price": "11.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1436",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a0112669-d82e-49b5-ad2b-6ab6d25fe62a.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1437",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/7e51b928-d020-4ebe-9c95-5be37703e783-1-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:40:49"
+    },
+    {
+      "id": "1019",
+      "slug": "pet-butylka-145-l",
+      "name": "ПЭТ бутылка 1,45 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-vody",
+        "butylki-pet-dlya-moloka",
+        "butylki-pet-dlya-soka",
+        "butylki-pet-dlya-sousa",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,45 л"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "1,45 л",
+      "volumeMl": 1450,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/db45b296-9b5a-4dfc-ae07-e1508027579e-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-145-l/",
+      "price": "12.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1438",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "12.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/87f97ff3-7475-4065-aa44-9ea521ee98c7.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1439",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/db45b296-9b5a-4dfc-ae07-e1508027579e-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:44:03"
+    },
+    {
+      "id": "1024",
+      "slug": "pet-butylka-15-l-2",
+      "name": "ПЭТ бутылка 1,5 л «Кукуруза»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-5-litra",
+        "butylki-pet-korichnevye",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "butylki-pet-temnye",
+        "butylki-pet-cvetnye",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,5 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Масло растительное",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,5 л",
+      "volumeMl": 1500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/a0112669-d82e-49b5-ad2b-6ab6d25fe62a.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-15-l-2/",
+      "price": "11.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1440",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a0112669-d82e-49b5-ad2b-6ab6d25fe62a.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1441",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/7e51b928-d020-4ebe-9c95-5be37703e783-1-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:51:09"
+    },
+    {
+      "id": "1027",
+      "slug": "pet-butylka-15-l-volna-2",
+      "name": "ПЭТ бутылка 1,5 л «Волна»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-5-litra",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "tara-dlya-sokov"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,5 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,5 л",
+      "volumeMl": 1500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/e02abcba-5dd8-4470-bc39-923f0938069f-min-2.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-15-l-volna-2/",
+      "price": "11.2",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1442",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11.2",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/0e58bee3-fdd3-4844-b98a-18ae4b6463e2.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1443",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/e02abcba-5dd8-4470-bc39-923f0938069f-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 15:58:44"
+    },
+    {
+      "id": "1028",
+      "slug": "pet-butylka-15-l-bochonok",
+      "name": "ПЭТ бутылка 1,5 л «Бочонок»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-5-litra",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "tara-dlya-sokov"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,5 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "45 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,5 л",
+      "volumeMl": 1500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/967d3349-356a-4f99-a978-00594e38be58-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-15-l-bochonok/",
+      "price": "12.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1469",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/967d3349-356a-4f99-a978-00594e38be58-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:01:26"
+    },
+    {
+      "id": "1032",
+      "slug": "pet-butylka-15-l-klassika-2",
+      "name": "ПЭТ бутылка 1,5 л «Классика»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-5-litra",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-kvasa",
+        "butylki-pet-dlya-gazirovki",
+        "tara-dlya-pivovarni"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,5 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,5 л",
+      "volumeMl": 1500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-15-l-klassika-2/",
+      "price": "12.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1467",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-01-12 16:07:06"
+    },
+    {
+      "id": "1033",
+      "slug": "pet-butylka-195-l",
+      "name": "ПЭТ бутылка 1,95 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,95 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "50 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Масло растительное",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,95 л",
+      "volumeMl": 1950,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/92a216e9-be36-496f-8e94-329a28f70081-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-195-l/",
+      "price": "12.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1470",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/92a216e9-be36-496f-8e94-329a28f70081-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:08:02"
+    },
+    {
+      "id": "1039",
+      "slug": "pet-butylka-2-l-2",
+      "name": "ПЭТ бутылка 2 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-2-litra",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "2 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "50 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "2 л",
+      "volumeMl": 2000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/d1a4e32a-cffd-44ea-8cbc-a39049093d36-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-2-l-2/",
+      "price": "12.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1471",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "12.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/d1a4e32a-cffd-44ea-8cbc-a39049093d36-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:12:56"
+    },
+    {
+      "id": "1040",
+      "slug": "pet-butylka-3-l",
+      "name": "ПЭТ бутылка 3 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-3-litra",
+        "butylki-pet-kvadratnye",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "3 л"
+        ],
+        "pa_в-упаковке": [
+          "30 шт"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_color": [
+          "Белый",
+          "Бирюзовый",
+          "Голубой",
+          "Желтый",
+          "Зеленый",
+          "Коричневый",
+          "Прозрачный",
+          "Синий"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 5 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ]
+      },
+      "volume": "3 л",
+      "volumeMl": 3000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-3-l/",
+      "price": "20.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1472",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "20.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:16:57"
+    },
+    {
+      "id": "1042",
+      "slug": "pet-butylka-3-l-2",
+      "name": "ПЭТ бутылка 3 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-3-litra",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_volume": [
+          "3 л"
+        ],
+        "pa_в-упаковке": [
+          "30 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 5 л"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "3 л",
+      "volumeMl": 3000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/de1ae9e6-7103-4c34-b3e1-120693783fa5-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-3-l-2/",
+      "price": "16.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1473",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "16.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/de1ae9e6-7103-4c34-b3e1-120693783fa5-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:19:30"
+    },
+    {
+      "id": "1045",
+      "slug": "pet-butylka-46-l",
+      "name": "ПЭТ бутылка 4,6 л Комплект",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-kvadratnye",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "kanistry-pet",
+        "pet",
+        "butylki-pet-dlya-stekloomyvatelya",
+        "tara-dlya-avtohimii",
+        "tara-dlya-bytovoy-khimii",
+        "tara-dlya-selskogo-khozyaystva"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "20 шт"
+        ],
+        "pa_volume": [
+          "4,6 л"
+        ],
+        "pa_neck-type": [
+          "48 мм"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 5 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "4,6 л",
+      "volumeMl": 4600,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/46bd76d5-fb47-41c7-b5c1-e1f38a6fcd1a-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-46-l/",
+      "price": "26.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1474",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "26.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:23:30"
+    },
+    {
+      "id": "1046",
+      "slug": "pet-butylka-48-l",
+      "name": "ПЭТ бутылка 4,8 л Комплект",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-kvadratnye",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "kanistry-pet",
+        "pet",
+        "butylki-pet-dlya-stekloomyvatelya",
+        "tara-dlya-avtohimii",
+        "tara-dlya-selskogo-khozyaystva"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "20 шт"
+        ],
+        "pa_volume": [
+          "4,8 л"
+        ],
+        "pa_neck-type": [
+          "48 мм"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 5 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "4,8 л",
+      "volumeMl": 4800,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/46bd76d5-fb47-41c7-b5c1-e1f38a6fcd1a-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-48-l/",
+      "price": "26.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1475",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "26.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:24:30"
+    },
+    {
+      "id": "1047",
+      "slug": "pet-butylka-49-l",
+      "name": "ПЭТ бутылка 4,9 л Комплект",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-kvadratnye",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "kanistry-pet",
+        "pet",
+        "butylki-pet-dlya-stekloomyvatelya",
+        "tara-dlya-avtohimii",
+        "tara-dlya-selskogo-khozyaystva"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "20 шт"
+        ],
+        "pa_volume": [
+          "4,9 л"
+        ],
+        "pa_neck-type": [
+          "48 мм"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 5 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "4,9 л",
+      "volumeMl": 4900,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-49-l/",
+      "price": "26.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1476",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "26.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:25:52"
+    },
+    {
+      "id": "1048",
+      "slug": "pet-butylka-5-l",
+      "name": "ПЭТ бутылка 5 л Комплект",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-5-litrov",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "kanistry-pet",
+        "pet",
+        "butylki-pet-dlya-stekloomyvatelya",
+        "butylki-pet-s-ruchkoy",
+        "flakony-pet-dlya-shampunya",
+        "tara-dlya-avtohimii",
+        "tara-dlya-bytovoy-khimii",
+        "tara-dlya-maslozavodov",
+        "tara-dlya-selskogo-khozyaystva"
+      ],
+      "attributes": {
+        "pa_в-упаковке": [
+          "35 шт"
+        ],
+        "pa_neck-type": [
+          "48 мм"
+        ],
+        "pa_volume": [
+          "5 л"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_volume_ml": [
+          "До 5 л"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "5 л",
+      "volumeMl": 5000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min-1.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-5-l/",
+      "price": "26.0",
+      "popular": true,
+      "variants": [
+        {
+          "id": "1477",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "26.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/1b60be19-9d2b-4d30-b668-9ec8c86e9744-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-12 16:26:42"
+    },
+    {
+      "id": "1051",
+      "slug": "kolpachok-safe-cap",
+      "name": "Колпачок \"Safe Cap\"",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/fda2f2ac-2f12-4f3c-9248-cd773d015662-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/kolpachok-safe-cap/",
+      "price": "1.1",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:16:06"
+    },
+    {
+      "id": "1053",
+      "slug": "kolpachok-mir",
+      "name": "Колпачок \"Мир\"",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/66ecc572-323f-43bb-af2a-307667a7caca-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/kolpachok-mir/",
+      "price": "0.85",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:16:16"
+    },
+    {
+      "id": "1055",
+      "slug": "kolpachok",
+      "name": "Колпачок 38мм",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_color": [
+          "Белый",
+          "Желтый",
+          "Зеленый",
+          "Синий"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/4f2c52b9-5f5c-473e-9c84-0fdee75b499a-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/kolpachok/",
+      "price": "1.1",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:17:49"
+    },
+    {
+      "id": "1057",
+      "slug": "kolpachok-48mm",
+      "name": "Колпачок 48мм",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "48 мм"
+        ],
+        "pa_color": [
+          "Белый",
+          "Голубой",
+          "Желтый",
+          "Синий"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/10e19cce-d38b-40d0-8afe-80c38467d918-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/kolpachok-48mm/",
+      "price": "1.70",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:19:02"
+    },
+    {
+      "id": "1059",
+      "slug": "kolpachok-dozator-maslyanyj-mir",
+      "name": "Колпачок масляный двухкомпонентный \"Мир\"",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/5bd66889-21d6-4a6f-be15-1a83c6cfbdab-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/kolpachok-dozator-maslyanyj-mir/",
+      "price": "1.65",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:20:22"
+    },
+    {
+      "id": "1062",
+      "slug": "ruchka-polimernaya-28-mm",
+      "name": "Ручка полимерная 28 мм",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/af7b158c-8825-4dfb-b540-827acb50bf6f-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/ruchka-polimernaya-28-mm/",
+      "price": "1.1",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:22:34"
+    },
+    {
+      "id": "1064",
+      "slug": "ruchka-polimernaya-28-mm-kopirovat",
+      "name": "Ручка полимерная 38 мм",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "38 мм"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/cd131892-10ac-45ba-84da-75bec1c9a12e-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/ruchka-polimernaya-28-mm-kopirovat/",
+      "price": "1.65",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:23:54"
+    },
+    {
+      "id": "1066",
+      "slug": "ruchka-polimernaya-48-mm",
+      "name": "Ручка полимерная 48 мм",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "48 мм"
+        ],
+        "pa_color": [
+          "Белый",
+          "Голубой",
+          "Желтый",
+          "Синий"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/cd131892-10ac-45ba-84da-75bec1c9a12e-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/ruchka-polimernaya-48-mm/",
+      "price": "2.1",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:25:40"
+    },
+    {
+      "id": "1067",
+      "slug": "paket-majka",
+      "name": "Пакет майка",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {},
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/81b7d10d-8513-4594-bbfe-5c034b5db642-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/paket-majka/",
+      "price": "2.50",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:27:45"
+    },
+    {
+      "id": "1069",
+      "slug": "paket-fasovochnyj",
+      "name": "Пакет фасовочный",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {},
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/949f3204-9e5f-4c72-8945-6c0b9d07d940-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/paket-fasovochnyj/",
+      "price": "280",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:28:38"
+    },
+    {
+      "id": "1071",
+      "slug": "pegas-twist",
+      "name": "Pegas Twist",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/45cb4be9-bdde-436a-9ed0-499cf2c8b074-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/pegas-twist/",
+      "price": "250",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:30:03"
+    },
+    {
+      "id": "1073",
+      "slug": "stakan-05-l",
+      "name": "Стакан 0,5 л",
+      "status": "publish",
+      "categories": [
+        "related"
+      ],
+      "attributes": {},
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/71149cf0-810d-468a-85c4-89206b7a7cda-min.png",
+      "sourceUrl": "https://m-pet.ru/product/related/stakan-05-l/",
+      "price": "2.3",
+      "popular": false,
+      "variants": [],
+      "date": "2026-01-13 14:32:00"
+    },
+    {
+      "id": "1124",
+      "slug": "pet-butylka-09-l-maslo",
+      "name": "ПЭТ бутылка 0,9 л «Масло»",
+      "status": "publish",
+      "categories": [
+        "pet",
+        "tara-dlya-maslozavodov"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "70 шт"
+        ],
+        "pa_volume": [
+          "900 мл"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_liquid-type": [
+          "Масло растительное"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "900 мл",
+      "volumeMl": 900,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/f28e2670-f5c3-4996-8ff3-664c25f24b61-min-1.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/tara-dlya-maslozavodov/pet-butylka-09-l-maslo/",
+      "price": "10.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1463",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/f28e2670-f5c3-4996-8ff3-664c25f24b61-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-01-19 11:22:01"
+    },
+    {
+      "id": "1348",
+      "slug": "pet-butylka-03-l-moloko-kvadratnaya",
+      "name": "ПЭТ бутылка 0,3 л «Молоко квадратная»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-moloka",
+        "butylki-pet-s-shirokim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-kefira",
+        "tara-dlya-molochnykh-predpriyatiy"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "300 мл"
+        ],
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_в-упаковке": [
+          "90 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Молоко"
+        ],
+        "pa_volume_ml": [
+          "До 500 мл"
+        ],
+        "pa_carbonated": [
+          "Нет"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "300 мл",
+      "volumeMl": 300,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/2f9a4067-cb38-4fc8-9289-b055aa82a62f-min-1.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-shirokim-gorlyshkom/pet-butylka-03-l-moloko-kvadratnaya/",
+      "price": "8.7",
+      "popular": true,
+      "variants": [
+        {
+          "id": "1457",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/2f9a4067-cb38-4fc8-9289-b055aa82a62f-min-1.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-02-16 14:39:03"
+    },
+    {
+      "id": "1350",
+      "slug": "pet-butylka-112-l-klassika",
+      "name": "ПЭТ бутылка 1,12 л «Классика»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-pishchevye",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-kvasa"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,12 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_упаковка-форма": [
+          "Брикет"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,12 л",
+      "volumeMl": 1120,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-112-l-klassika/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1430",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_this_transparent_clear_bottle_to_warm_tr-1772178665231-photoroom.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1431",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1772178485647-photoroom.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-02-16 15:01:36"
+    },
+    {
+      "id": "1352",
+      "slug": "pet-butylka-05-l-ploskaya-2",
+      "name": "ПЭТ бутылка 0,5 л «Плоская»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-500-ml",
+        "butylki-pet-ploskie",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-prozrachnye",
+        "tara-dlya-sokov"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "400 шт"
+        ],
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 2 л"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1771323263101-2.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-05-l-ploskaya-2/",
+      "price": "10.4",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1460",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "10.4",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/01/a9dd282c-6cd8-4505-9fd5-deebbb885ccd-min.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-02-17 13:17:20"
+    },
+    {
+      "id": "1357",
+      "slug": "pet-butylka-026-l-3",
+      "name": "ПЭТ бутылка 0,26 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "260 мл"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "500 шт"
+        ],
+        "pa_liquid-type": [
+          "Бытовая химия",
+          "Вода / Соки / Соусы",
+          "Масло растительное"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 250 мл"
+        ],
+        "pa_color": [
+          "Коричневый",
+          "Прозрачный"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ]
+      },
+      "volume": "260 мл",
+      "volumeMl": 260,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/asset_d1lqvpnxo_1771322914141.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-026-l-3/",
+      "price": "8.7",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1387",
+          "attributes": {
+            "pa_color": "Коричневый"
+          },
+          "price": "8.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/asset_8ktqm15zk_1771322714883.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1388",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "8.7",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/asset_d1lqvpnxo_1771322914141.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-02-17 13:32:22"
+    },
+    {
+      "id": "1359",
+      "slug": "pet-butylka-10-l-kola",
+      "name": "ПЭТ бутылка 1,0 л «Кола»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-litr",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-kvasa",
+        "butylki-pet-dlya-gazirovki",
+        "butylki-pet-prozrachnye",
+        "tara-dlya-pivovarni"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "50 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Масло растительное",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1771324605676.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-10-l-kola/",
+      "price": "9.5",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1465",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "9.5",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1771324605676.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-02-17 13:39:12"
+    },
+    {
+      "id": "1366",
+      "slug": "pet-butylka-15-l-kola",
+      "name": "ПЭТ бутылка 1,5 л «Кола»",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-1-5-litra",
+        "butylki-pet-s-uzkim-gorlyshkom",
+        "pet",
+        "butylki-pet-dlya-kvasa",
+        "butylki-pet-dlya-gazirovki",
+        "butylki-pet-prozrachnye",
+        "tara-dlya-pivovarni"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1,5 л"
+        ],
+        "pa_neck-type": [
+          "28 мм"
+        ],
+        "pa_в-упаковке": [
+          "60 шт"
+        ],
+        "pa_liquid-type": [
+          "Вода / Соки / Соусы",
+          "Масло растительное",
+          "Пиво"
+        ],
+        "pa_carbonated": [
+          "Да"
+        ],
+        "pa_volume_ml": [
+          "До 1 л"
+        ],
+        "pa_упаковка-форма": [
+          "Мешок"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "1,5 л",
+      "volumeMl": 1500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1771324605676.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-s-uzkim-gorlyshkom/pet-butylka-15-l-kola/",
+      "price": "11",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1466",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "11",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/02/transform_the_plastic_bottle_material_to_completel-1771324605676.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-02-18 13:04:23"
+    },
+    {
+      "id": "1508",
+      "slug": "kolpachok-38mm-kopirovat",
+      "name": "Стакан 0,2 Л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-mini",
+        "related"
+      ],
+      "attributes": {
+        "pa_neck-type": [
+          "38 мм"
+        ],
+        "pa_color": [
+          "Белый",
+          "Желтый",
+          "Зеленый",
+          "Синий"
+        ]
+      },
+      "volume": "",
+      "volumeMl": null,
+      "material": "",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/01/0b6fef78-f8a9-4842-a3f3-d39958e8412e-min.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-mini/kolpachok-38mm-kopirovat/",
+      "price": "0.95",
+      "popular": false,
+      "variants": [],
+      "date": "2026-04-02 14:21:55"
+    },
+    {
+      "id": "1584",
+      "slug": "pet-flakon-250-ml",
+      "name": "ПЭТ-флакон 250 мл",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-250-ml",
+        "butylki-pet-prozrachnye",
+        "flakony-pet-dlya-kosmetiki",
+        "flakony-pet-dlya-shampunya",
+        "tara-dlya-kosmeticheskikh-predpriyatiy",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "250 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "250 мл",
+      "volumeMl": 250,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/7.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-250-ml/pet-flakon-250-ml/",
+      "price": "15",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1602",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "15",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/7.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1673",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "15",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/transform_the_opaque_white_bottle_in_the_image_int-1784912124173-picsart-backgroundremover.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-07-02 18:15:05"
+    },
+    {
+      "id": "1586",
+      "slug": "pet-flakon-460-ml",
+      "name": "ПЭТ-флакон 460 мл",
+      "status": "publish",
+      "categories": [
+        "misc",
+        "flakony-pet-dlya-antiseptika",
+        "tara-dlya-bytovoy-khimii",
+        "tara-dlya-selskogo-khozyaystva",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "460 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "460 мл",
+      "volumeMl": 460,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/edit_this_bottle_photo_into_a_clean_e-commerce_cat-1782466140994-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/flakony-pet-dlya-antiseptika/pet-flakon-460-ml/",
+      "price": "16",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1605",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/1.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1606",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/edit_this_bottle_photo_into_a_clean_e-commerce_cat-1782466153176-photoroom-2.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-07-02 18:29:14"
+    },
+    {
+      "id": "1587",
+      "slug": "pet-flakon-500-ml",
+      "name": "ПЭТ-флакон 500 мл",
+      "status": "publish",
+      "categories": [
+        "misc",
+        "butylki-pet-5-litrov",
+        "flakony-pet-dlya-antiseptika",
+        "tara-dlya-bytovoy-khimii",
+        "tara-dlya-selskogo-khozyaystva",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Зеленый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/smq9wgm4-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-5-litrov/pet-flakon-500-ml/",
+      "price": "16",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1632",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/7.png",
+          "stock": "instock"
+        },
+        {
+          "id": "1663",
+          "attributes": {
+            "pa_color": "Зеленый"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/3.png",
+          "stock": "outofstock"
+        },
+        {
+          "id": "1675",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/transform_the_opaque_green_glossy_bottle_in_the_im-1784912121338-photoroom.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-07-02 18:34:21"
+    },
+    {
+      "id": "1588",
+      "slug": "pet-flakon-500-ml-uzkij",
+      "name": "ПЭТ-флакон 500 мл узкий",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-5-litrov",
+        "flakony-pet-dlya-antiseptika",
+        "tara-dlya-bytovoy-khimii",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "500 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "500 мл",
+      "volumeMl": 500,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/xeqwtmkr-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-5-litrov/pet-flakon-500-ml-uzkij/",
+      "price": "16",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1655",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/6.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1667",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "16",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/chatgpt-image-24-iyul.-2026-g.-19_37_45-photoroom.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-07-02 18:39:03"
+    },
+    {
+      "id": "1589",
+      "slug": "pet-flakon-700-ml",
+      "name": "ПЭТ-флакон 700 мл",
+      "status": "publish",
+      "categories": [
+        "flakony-pet-dlya-antiseptika",
+        "tara-dlya-bytovoy-khimii",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "700 мл"
+        ],
+        "pa_color": [
+          "Белый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "700 мл",
+      "volumeMl": 700,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/xeqwtmkr-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/flakony-pet-dlya-antiseptika/pet-flakon-700-ml/",
+      "price": "18",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1629",
+          "attributes": {
+            "pa_color": "Прозрачный",
+            "pa_volume": "700 мл"
+          },
+          "price": "18",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/5.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1670",
+          "attributes": {
+            "pa_color": "Белый",
+            "pa_volume": "700 мл"
+          },
+          "price": "18",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/chatgpt-image-24-iyul-2026-g-19_47_36-picsart-backgroundremover.png",
+          "stock": "instock"
+        }
+      ],
+      "date": "2026-07-02 18:40:45"
+    },
+    {
+      "id": "1590",
+      "slug": "pet-flakon-1-l",
+      "name": "ПЭТ-флакон 1 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-dlya-piva",
+        "pet",
+        "flakony-pet-dlya-antiseptika",
+        "tara-dlya-bytovoy-khimii",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "1 л"
+        ],
+        "pa_color": [
+          "Белый",
+          "Зеленый",
+          "Прозрачный"
+        ]
+      },
+      "volume": "1 л",
+      "volumeMl": 1000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/bw84jdbi-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-dlya-piva/pet-flakon-1-l/",
+      "price": "18",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1609",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "18",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/8.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1610",
+          "attributes": {
+            "pa_color": "Белый"
+          },
+          "price": "18",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/4.png",
+          "stock": "onbackorder"
+        },
+        {
+          "id": "1611",
+          "attributes": {
+            "pa_color": "Зеленый"
+          },
+          "price": "18",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/9.png",
+          "stock": "outofstock"
+        }
+      ],
+      "date": "2026-07-02 18:43:05"
+    },
+    {
+      "id": "1591",
+      "slug": "pet-flakon-3-l",
+      "name": "ПЭТ-флакон 3 л",
+      "status": "publish",
+      "categories": [
+        "butylki-pet-250-ml",
+        "flakony-pet-dlya-shampunya",
+        "tara-dlya-avtohimii",
+        "kosmetika"
+      ],
+      "attributes": {
+        "pa_volume": [
+          "3 л"
+        ],
+        "pa_color": [
+          "Прозрачный"
+        ]
+      },
+      "volume": "3 л",
+      "volumeMl": 3000,
+      "material": "ПЭТ",
+      "image": "https://m-pet.ru/wp-content/uploads/2026/07/transform_the_plastic_bottle_material_to_completel-1782332597896-photoroom.png",
+      "sourceUrl": "https://m-pet.ru/product/pet/butylki-pet-250-ml/pet-flakon-3-l/",
+      "price": "24.0",
+      "popular": false,
+      "variants": [
+        {
+          "id": "1623",
+          "attributes": {
+            "pa_color": "Прозрачный"
+          },
+          "price": "24.0",
+          "image": "https://m-pet.ru/wp-content/uploads/2026/07/11.png",
+          "stock": "onbackorder"
+        }
+      ],
+      "date": "2026-07-02 18:45:08"
+    }
+  ]
+}

@@ -6,8 +6,8 @@
 
 @font-face {
   font-family: 'Vela Sans';
-  src: url('fonts/VelaSans-GX.woff2') format('woff2-variations'),
-       url('fonts/VelaSans-GX.woff2') format('woff2');
+  src: url('VelaSans-GX.woff2') format('woff2-variations'),
+       url('VelaSans-GX.woff2') format('woff2');
   font-weight: 100 900;
   font-display: swap;
 }

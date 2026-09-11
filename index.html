@@ -8,8 +8,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles.css?v=20260908-radii">
+  <link rel="stylesheet" href="styles.css?v=20260911-catalog">
   <link rel="stylesheet" href="assets/refinements.css?v=20260908-radii">
+  <link rel="stylesheet" href="assets/catalog.css?v=20260911-3">
+  <link rel="icon" href="logo-poliform.svg" type="image/svg+xml">
 </head>
 <body class="refined">
 
@@ -33,7 +35,7 @@
     <div class="nav__bar nav__bar--menu">
       <nav class="nav__links" aria-label="Основная навигация">
         <a href="#about" class="nav__link">О производстве</a>
-        <a href="#products" class="nav__link">Продукция</a>
+        <a href="catalog.html" class="nav__link">Каталог</a>
         <a href="#quality" class="nav__link">Качество</a>
         <a href="#process" class="nav__link">Процесс</a>
       </nav>
@@ -125,44 +127,32 @@
           <span class="counter-pill">Популярное</span>
           <span class="section__label">Популярные товары</span>
         </div>
-        <div class="popular__heading"><h2 class="popular__title" data-split>Формы, которые выбирают.</h2><a href="#products" class="btn btn--lime popular__catalog button-wipe">Каталог</a></div>
-        <div class="popular__grid">
-          <article class="prcard" data-reveal data-product="ampula" data-volume="30" data-closure="Пипетка">
-            <div class="prcard__media"><img src="assets/img/cosmetics-v2.png" alt="Синий флакон с пипеткой" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Флакон «Ампула»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>30 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Пипетка</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="ampula">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="ampula">Образец</button></div>
-            </div>
-          </article>
-          <article class="prcard" data-reveal data-product="serum" data-volume="50" data-closure="Винтовое горло">
-            <div class="prcard__media"><img src="assets/img/perfume-v2.png" alt="Разноцветные флаконы" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Флакон «Серум»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>50 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Винтовое горло</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="serum">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="serum">Образец</button></div>
-            </div>
-          </article>
-          <article class="prcard" data-reveal data-product="twist" data-volume="75" data-closure="Крышка твист-офф">
-            <div class="prcard__media"><img src="assets/img/caps-v2.png" alt="Цветные крышки, помпа и стик" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Стик «Твист»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>75 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Крышка твист-офф</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="twist">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="twist">Образец</button></div>
-            </div>
-          </article>
-          <article class="prcard" data-reveal data-product="cylinder" data-volume="400" data-closure="Помпа-дозатор">
-            <div class="prcard__media"><img src="assets/img/bottles-v2.png" alt="Жёлтый флакон с дозатором" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Флакон «Цилиндр»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>400 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Помпа-дозатор</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="cylinder">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="cylinder">Образец</button></div>
-            </div>
-          </article>
+        <div class="popular__heading"><h2 class="popular__title" data-split>Формы, которые выбирают.</h2><a href="catalog.html?collection=popular" class="btn btn--lime popular__catalog button-wipe">Каталог</a></div>
+        <div class="popular__grid catalog-landing-grid">
+          <article class="prcard" data-reveal data-product="1348" data-volume="300" data-material="ПЭТ" data-closure="38 мм">
+            <a class="prcard__media" href="product.html?id=1348" aria-label="ПЭТ бутылка 0,3 л «Молоко квадратная»"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=1348">ПЭТ бутылка 0,3 л «Молоко квадратная»</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>300 мл</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div><div><dt>Горловина</dt><dd>38 мм</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=1348" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="1348">Образец</button></div>
+            </div></article>
+          <article class="prcard" data-reveal data-product="950" data-volume="500" data-material="ПЭТ" data-closure="28 мм">
+            <a class="prcard__media" href="product.html?id=950" aria-label="ПЭТ бутылка 0,5 л «Волна»"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=950">ПЭТ бутылка 0,5 л «Волна»</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>500 мл</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div><div><dt>Горловина</dt><dd>28 мм</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=950" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="950">Образец</button></div>
+            </div></article>
+          <article class="prcard" data-reveal data-product="996" data-volume="1000" data-material="ПЭТ" data-closure="28 мм">
+            <a class="prcard__media" href="product.html?id=996" aria-label="ПЭТ бутылка 1 л «Квадратная»"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=996">ПЭТ бутылка 1 л «Квадратная»</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>1 л</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div><div><dt>Горловина</dt><dd>28 мм</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=996" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="996">Образец</button></div>
+            </div></article>
+          <article class="prcard" data-reveal data-product="1048" data-volume="5000" data-material="ПЭТ" data-closure="48 мм">
+            <a class="prcard__media" href="product.html?id=1048" aria-label="ПЭТ бутылка 5 л Комплект"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=1048">ПЭТ бутылка 5 л Комплект</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>5 л</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div><div><dt>Горловина</dt><dd>48 мм</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=1048" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="1048">Образец</button></div>
+            </div></article>
         </div>
       </div>
     </section>
@@ -236,7 +226,7 @@
                   <h3 class="pcard__title">Флаконы</h3>
                   <p class="pcard__text">Флаконы и&nbsp;бутылки из&nbsp;полиэтилена от&nbsp;10&nbsp;мл до&nbsp;1&nbsp;л — любые формы под&nbsp;розлив, дозаторы и&nbsp;распылители.</p>
                 </div>
-                <a href="#popular" class="btn-arrow button-wipe" aria-label="Каталог флаконов">
+                <a href="catalog.html?category=kosmetika" class="btn-arrow button-wipe" aria-label="Каталог флаконов">
                   <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
                 </a>
               </div>
@@ -266,7 +256,7 @@
                   <h3 class="pcard__title">Укупорка</h3>
                   <p class="pcard__text">Крышки, дозаторы, помпы и&nbsp;распылители — герметичность проверяем до&nbsp;упаковки.</p>
                 </div>
-                <a href="#contact" class="btn-arrow button-wipe" aria-label="Каталог комплектующих">
+                <a href="catalog.html?category=related" class="btn-arrow button-wipe" aria-label="Каталог комплектующих">
                   <svg viewBox="0 0 16 16" fill="none"><path d="M2 8h11M9 3.5 13.5 8 9 12.5" stroke="currentColor" stroke-width="1.4"/></svg>
                 </a>
               </div>
@@ -316,44 +306,32 @@
           <span class="counter-pill">04 / 06</span>
           <span class="section__label">Новинки</span>
         </div>
-        <div class="popular__heading"><h2 class="popular__title" data-split>Новые формы.</h2><a href="#products" class="btn btn--lime popular__catalog button-wipe">Каталог</a></div>
-        <div class="popular__grid">
-          <article class="prcard" data-reveal data-product="ampula" data-volume="30" data-closure="Пипетка">
-            <div class="prcard__media"><img src="assets/img/cosmetics-v2.png" alt="Синий флакон с пипеткой" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Флакон «Ампула»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>30 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Пипетка</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="ampula">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="ampula">Образец</button></div>
-            </div>
-          </article>
-          <article class="prcard" data-reveal data-product="serum" data-volume="50" data-closure="Винтовое горло">
-            <div class="prcard__media"><img src="assets/img/perfume-v2.png" alt="Разноцветные флаконы" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Флакон «Серум»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>50 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Винтовое горло</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="serum">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="serum">Образец</button></div>
-            </div>
-          </article>
-          <article class="prcard" data-reveal data-product="twist" data-volume="75" data-closure="Крышка твист-офф">
-            <div class="prcard__media"><img src="assets/img/caps-v2.png" alt="Цветные крышки, помпа и стик" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Стик «Твист»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>75 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Крышка твист-офф</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="twist">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="twist">Образец</button></div>
-            </div>
-          </article>
-          <article class="prcard" data-reveal data-product="cylinder" data-volume="400" data-closure="Помпа-дозатор">
-            <div class="prcard__media"><img src="assets/img/bottles-v2.png" alt="Жёлтый флакон с дозатором" loading="lazy"></div>
-            <div class="prcard__body">
-              <h3 class="prcard__name">Флакон «Цилиндр»</h3>
-              <dl class="prcard__specs"><div><dt>Объём</dt><dd>400 мл</dd></div><div><dt>Материал</dt><dd>ПНД</dd></div><div class="prcard__closure"><dt>Укупорка</dt><dd>Помпа-дозатор</dd></div></dl>
-              <p class="prcard__price">Стоимость по запросу</p>
-              <div class="prcard__links"><button type="button" class="btn btn--paper button-wipe" data-details="cylinder">Подробнее</button><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="cylinder">Образец</button></div>
-            </div>
-          </article>
+        <div class="popular__heading"><h2 class="popular__title" data-split>Новые формы.</h2><a href="catalog.html?category=kosmetika" class="btn btn--lime popular__catalog button-wipe">Каталог</a></div>
+        <div class="popular__grid catalog-landing-grid">
+          <article class="prcard" data-reveal data-product="1584" data-volume="250" data-material="ПЭТ" data-closure="">
+            <a class="prcard__media" href="product.html?id=1584" aria-label="ПЭТ-флакон 250 мл"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=1584">ПЭТ-флакон 250 мл</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>250 мл</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=1584" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="1584">Образец</button></div>
+            </div></article>
+          <article class="prcard" data-reveal data-product="1586" data-volume="460" data-material="ПЭТ" data-closure="">
+            <a class="prcard__media" href="product.html?id=1586" aria-label="ПЭТ-флакон 460 мл"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=1586">ПЭТ-флакон 460 мл</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>460 мл</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=1586" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="1586">Образец</button></div>
+            </div></article>
+          <article class="prcard" data-reveal data-product="1587" data-volume="500" data-material="ПЭТ" data-closure="">
+            <a class="prcard__media" href="product.html?id=1587" aria-label="ПЭТ-флакон 500 мл"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=1587">ПЭТ-флакон 500 мл</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>500 мл</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=1587" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="1587">Образец</button></div>
+            </div></article>
+          <article class="prcard" data-reveal data-product="1588" data-volume="500" data-material="ПЭТ" data-closure="">
+            <a class="prcard__media" href="product.html?id=1588" aria-label="ПЭТ-флакон 500 мл узкий"><div class="photo-placeholder"><span>Фото уточняется</span></div></a>
+            <div class="prcard__body"><h3 class="prcard__name"><a href="product.html?id=1588">ПЭТ-флакон 500 мл узкий</a></h3>
+              <dl class="prcard__specs"><div><dt>Объём</dt><dd>500 мл</dd></div><div><dt>Материал</dt><dd>ПЭТ</dd></div></dl><p class="prcard__price">Стоимость по запросу</p>
+              <div class="prcard__links"><a href="product.html?id=1588" class="btn btn--paper button-wipe">Подробнее</a><button type="button" class="btn btn--lime button-wipe" data-request="Образцы" data-item="1588">Образец</button></div>
+            </div></article>
         </div>
       </div>
     </section>
@@ -616,14 +594,14 @@
         <div class="footer__col">
           <span class="footer__key">Разделы</span>
           <a href="#about">О производстве</a>
-          <a href="#products">Продукция</a>
+          <a href="catalog.html">Каталог</a>
           <a href="#quality">Качество</a>
           <a href="#process">Процесс</a>
         </div>
         <div class="footer__col footer__col--cta">
           <span class="footer__key">Разработка — Evoline</span>
           <div class="footer__cta">
-            <a href="#contact" class="btn btn--paper button-wipe">Получить каталог</a>
+            <a href="catalog.html" class="btn btn--paper button-wipe">Открыть каталог</a>
             <a href="#contact" class="btn btn--lime button-wipe">Оставить заявку</a>
           </div>
         </div>
@@ -664,7 +642,8 @@
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.14/dist/lenis.min.js"></script>
-  <script src="assets/main.js?v=20260825"></script>
-  <script src="assets/refinements.js"></script>
+  <script src="main.js?v=20260911-catalog"></script>
+  <script src="assets/refinements.js?v=20260911-3"></script>
+  <script src="assets/catalog-landing.js?v=20260911-3"></script>
 </body>
 </html>
